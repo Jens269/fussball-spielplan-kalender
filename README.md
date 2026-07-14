@@ -20,7 +20,7 @@ Der Kalendername wird gleichzeitig zum Dateinamen (`ics/<Kalendername>.ics`) und
 ## Abo-URLs
 
 ```
-https://raw.githubusercontent.com/Jens269/fussball-spielplan-kalender/main/ics/Biene-1.ics
+https://raw.githubusercontent.com/Jens269/fussball-spielplan-kalender/main/ics/SV%20Holthausen%20Biene.ics
 https://raw.githubusercontent.com/Jens269/fussball-spielplan-kalender/main/ics/SV%20Holthausen%20Biene%20II.ics
 ```
 
