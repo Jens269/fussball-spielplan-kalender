@@ -1,0 +1,322 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fussball-spielplan-kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Biene-1
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:892edd6d0cdac03f54f8f016a200a0cce71a08eb1550b987041c6aea35ae46c9@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260419T150000
+DTEND;TZID=Europe/Berlin:20260419T164500
+SUMMARY:SV Holthausen Biene - U.S.I. Lupo-Martini Wolfsburg (3:1)
+DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
+ el/sv-holthausen-biene-usi-lupo-martini-wolfsburg/-/spiel/02THQCD5U8000000
+ VS5489BTVV9SFN07
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-usi-lupo-martini-wolf
+ sburg/-/spiel/02THQCD5U8000000VS5489BTVV9SFN07
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c32c4658db96348ae7b66a4f96cfd5de48392cf92c04c6c687d8b564953ef4f6@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260422T193000
+DTEND;TZID=Europe/Berlin:20260422T211500
+SUMMARY:SV Holthausen Biene - VfV Borussia 06 Hildesheim (2:4)
+DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
+ el/sv-holthausen-biene-vfv-borussia-06-hildesheim/-/spiel/02THQCD838000000
+ VS5489BTVV9SFN07
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-vfv-borussia-06-hilde
+ sheim/-/spiel/02THQCD838000000VS5489BTVV9SFN07
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc1ff1ee69c2b10b01247d38145fe0bbed8484d091b186ed732ff3032d4f158@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260424T193000
+DTEND;TZID=Europe/Berlin:20260424T211500
+SUMMARY:SC Spelle-Venhaus - SV Holthausen Biene (4:0)
+DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
+ el/sc-spelle-venhaus-sv-holthausen-biene/-/spiel/02THQCD5AC000000VS5489BTV
+ V9SFN07
+URL:https://www.fussball.de/spiel/sc-spelle-venhaus-sv-holthausen-biene/-/s
+ piel/02THQCD5AC000000VS5489BTVV9SFN07
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:79f32ef6eee9162bdde96dbd34593ae092aa5a5a83f0fee86e04a94011088f38@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260503T150000
+DTEND;TZID=Europe/Berlin:20260503T164500
+SUMMARY:SV Holthausen Biene - Lüneburger Sport-Klub Hansa (1:3)
+DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
+ el/sv-holthausen-biene-lueneburger-sport-klub-hansa/-/spiel/02THQCD4NG0000
+ 00VS5489BTVV9SFN07
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-lueneburger-sport-klu
+ b-hansa/-/spiel/02THQCD4NG000000VS5489BTVV9SFN07
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d61b86af4594fe23639e76e60b5002285866c9b9c32c9f4214940df6a9d2432@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260506T193000
+DTEND;TZID=Europe/Berlin:20260506T211500
+SUMMARY:SV Holthausen Biene - 1.FC Germania Egestorf-Langreder (1:2)
+DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
+ el/sv-holthausen-biene-1fc-germania-egestorf-langreder/-/spiel/02THQCDA9C0
+ 00000VS5489BTVV9SFN07
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-1fc-germania-egestorf
+ -langreder/-/spiel/02THQCDA9C000000VS5489BTVV9SFN07
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:44262c23cc5a7e75d1fa700c9eabd40dfc0690bf1681bc9bcc97f120e249cb4b@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260509T180000
+DTEND;TZID=Europe/Berlin:20260509T194500
+SUMMARY:SV Atlas Delmenhorst - SV Holthausen Biene (3:1)
+DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
+ el/sv-atlas-delmenhorst-sv-holthausen-biene/-/spiel/02THQCD498000000VS5489
+ BTVV9SFN07
+URL:https://www.fussball.de/spiel/sv-atlas-delmenhorst-sv-holthausen-biene/
+ -/spiel/02THQCD498000000VS5489BTVV9SFN07
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0330ef66a95b3412476ab38651167d7fda78d04925f04037f107238b3d51283e@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260517T150000
+DTEND;TZID=Europe/Berlin:20260517T164500
+SUMMARY:SV Holthausen Biene - TUS Bersenbrück (3:3)
+DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
+ el/sv-holthausen-biene-tus-bersenbrueck/-/spiel/02THQCD3J8000000VS5489BTVV
+ 9SFN07
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-tus-bersenbrueck/-/sp
+ iel/02THQCD3J8000000VS5489BTVV9SFN07
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:96b1836864036a9b39129f1e485d26f6985e391a270b9f87645a26712b4ba853@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260705T140000
+DTEND;TZID=Europe/Berlin:20260705T154500
+SUMMARY:SV Holthausen Biene - TUS Bersenbrück (1:4)
+DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nhttps://www.fussball.de
+ /spiel/sv-holthausen-biene-tus-bersenbrueck/-/spiel/0313HM0PD8000000VS5489
+ BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-tus-bersenbrueck/-/sp
+ iel/0313HM0PD8000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:251d8e00c95b55be341867342d048716bfc185a73917d3832f3e94f8dd9958db@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260708T193000
+DTEND;TZID=Europe/Berlin:20260708T211500
+SUMMARY:SV Holthausen Biene - SV Meppen II (0:2)
+DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nhttps://www.fussball.de
+ /spiel/sv-holthausen-biene-sv-meppen-ii/-/spiel/031969KC18000000VS5489BUVV
+ 628VP4
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-meppen-ii/-/spiel/
+ 031969KC18000000VS5489BUVV628VP4
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b63c8ae20d4523bcee3bfa6ddba32ee78032da53a63135a8cbfd69ed6f106a2c@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260711T120000
+DTEND;TZID=Europe/Berlin:20260711T134500
+SUMMARY:ASV Altenlingen - SV Holthausen Biene (5:2)
+DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nhttps://www.fussball.de
+ /spiel/asv-altenlingen-sv-holthausen-biene/-/spiel/03173U5K8O000000VS5489B
+ UVSBBVPEU
+URL:https://www.fussball.de/spiel/asv-altenlingen-sv-holthausen-biene/-/spi
+ el/03173U5K8O000000VS5489BUVSBBVPEU
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b432eb92a98428bf67bcd6b9d048d3ef1b3594d61b2dfe3626ffd0f7b544880c@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260718T140000
+DTEND;TZID=Europe/Berlin:20260718T154500
+SUMMARY:SV Holthausen Biene - SV Bokeloh
+DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nhttps://www.fussball.de
+ /spiel/sv-holthausen-biene-sv-bokeloh/-/spiel/031969TEVC000000VS5489BUVV62
+ 8VP4
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-bokeloh/-/spiel/03
+ 1969TEVC000000VS5489BUVV628VP4
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d77d6130df81a246dfcd9c21d78c79a9c8e09f3d6645b651ac9d8ecbb2d0dc5d@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260721T193000
+DTEND;TZID=Europe/Berlin:20260721T211500
+SUMMARY:SG Freren - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nhttps://www.fussball.de
+ /spiel/sg-freren-sv-holthausen-biene/-/spiel/03164619MG000000VS5489BUVSBBV
+ PEU
+URL:https://www.fussball.de/spiel/sg-freren-sv-holthausen-biene/-/spiel/031
+ 64619MG000000VS5489BUVSBBVPEU
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:893ac4fae07132f49350c4f0ce9d1d018fe46f590484c12eb594c5207bc0997e@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260726T150000
+DTEND;TZID=Europe/Berlin:20260726T164500
+SUMMARY:SpVgg. Brandlecht-Hestrup - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Bezirkspokal\nhttps://www.fussball.de/spiel/spvgg-b
+ randlecht-hestrup-sv-holthausen-biene/-/spiel/0319T4RVBC000000VS5489BTVSK8
+ S3O6
+URL:https://www.fussball.de/spiel/spvgg-brandlecht-hestrup-sv-holthausen-bi
+ ene/-/spiel/0319T4RVBC000000VS5489BTVSK8S3O6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3941fa44190e96885f1648a6624a9b06e4c15dc59177a10b18bc96d43c3d030e@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260726T150000
+DTEND;TZID=Europe/Berlin:20260726T164500
+SUMMARY:[Absetzung] SC Spelle-Venhaus U23 - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nStatus: Absetzung\nhttp
+ s://www.fussball.de/spiel/sc-spelle-venhaus-u23-sv-holthausen-biene/-/spie
+ l/0318JPUH0S000000VS5489BUVV628VP4
+URL:https://www.fussball.de/spiel/sc-spelle-venhaus-u23-sv-holthausen-biene
+ /-/spiel/0318JPUH0S000000VS5489BUVV628VP4
+STATUS:CANCELLED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a8d9af84132687d76ba1b2bea1971cb6756fd96c872b9d1046a22f1679d46ce9@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260802T150000
+DTEND;TZID=Europe/Berlin:20260802T164500
+SUMMARY:SV Holthausen Biene - SV Eintracht Nordhorn
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
+ usen-biene-sv-eintracht-nordhorn/-/spiel/0315MRNRD0000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-eintracht-nordhorn
+ /-/spiel/0315MRNRD0000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a704ba7e1cefa96afcece39f7a5e2a580c1b2580a138e9b976da4f74372a487@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260809T150000
+DTEND;TZID=Europe/Berlin:20260809T164500
+SUMMARY:VfL Oldenburg - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/vfl-olden
+ burg-sv-holthausen-biene/-/spiel/0315MRO12O000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/vfl-oldenburg-sv-holthausen-biene/-/spiel
+ /0315MRO12O000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c688e1b51d7e29f69a837a0ef659f1cc04094313e8a0e8b70ac162991041d514@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260816T150000
+DTEND;TZID=Europe/Berlin:20260816T164500
+SUMMARY:SV Holthausen Biene - SC Melle 03
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
+ usen-biene-sc-melle-03/-/spiel/0315MRO080000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-sc-melle-03/-/spiel/0
+ 315MRO080000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d9ed00b93d0161a960805ef02e22ab7dcf4efa6585b7ac3eea1301a4025d494@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260822T160000
+DTEND;TZID=Europe/Berlin:20260822T174500
+SUMMARY:SV Altenoythe - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-alteno
+ ythe-sv-holthausen-biene/-/spiel/0315MRO00O000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-altenoythe-sv-holthausen-biene/-/spiel
+ /0315MRO00O000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a6dff5c70616653529fc65179f45d13f1e767b2010df3607db9d566e9fde114@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260827T193000
+DTEND;TZID=Europe/Berlin:20260827T211500
+SUMMARY:SV Holthausen Biene - SV Union Lohne
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
+ usen-biene-sv-union-lohne/-/spiel/0315MRNV9C000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-union-lohne/-/spie
+ l/0315MRNV9C000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:97cd9fce3e182e6c933800062e9dd0ad7db91eeff65a19f14de34ae9989f7a7e@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260714T134808Z
+DTSTART;TZID=Europe/Berlin:20260904T193000
+DTEND;TZID=Europe/Berlin:20260904T211500
+SUMMARY:SC BW 94 Papenburg - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sc-bw-94-
+ papenburg-sv-holthausen-biene/-/spiel/0315MRNUV8000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sc-bw-94-papenburg-sv-holthausen-biene/-/
+ spiel/0315MRNUV8000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

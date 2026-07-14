@@ -1,0 +1,4 @@
+*.raw.html
+rawdump/
+.DS_Store
+.claude/
