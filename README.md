@@ -20,15 +20,22 @@ Der Kalendername wird gleichzeitig zum Dateinamen (`ics/<Kalendername>.ics`) und
 ## Abo-URLs
 
 ```
-https://raw.githubusercontent.com/<owner>/<repo>/main/ics/Biene-1.ics
-https://raw.githubusercontent.com/<owner>/<repo>/main/ics/Biene-3.ics
+https://raw.githubusercontent.com/Jens269/fussball-spielplan-kalender/main/ics/Biene-1.ics
+https://raw.githubusercontent.com/Jens269/fussball-spielplan-kalender/main/ics/SV%20Holthausen%20Biene%20II.ics
 ```
 
-In Apple Kalender: *Ablage → Neu → Kalenderabo* mit obiger URL.
-In Google Kalender: *Weitere Kalender → Per URL* mit obiger URL.
+(Leerzeichen im Dateinamen muessen in der URL als `%20` kodiert werden.)
 
-Beide Kalender-Apps rufen die Datei automatisch periodisch ab (Apple respektiert dabei u.a.
-`REFRESH-INTERVAL:PT12H`); ein manuelles Neu-Abonnieren ist nicht noetig.
+**Apple Kalender:** *Ablage → Neu → Kalenderabo* mit obiger URL.
+**Google Kalender:** *Weitere Kalender → Per URL* mit obiger URL.
+**Outlook (Web):** *Kalender hinzufuegen → Aus dem Internet abonnieren* mit obiger URL.
+**Outlook (Windows):** *Kalender → Kalender oeffnen → Aus dem Internet…* mit obiger URL.
+**Outlook (Mac):** *Kalender → Ablage → Neu → Kalenderabo…* mit obiger URL.
+
+Apple und Google rufen die Datei automatisch periodisch ab (Apple respektiert dabei u.a.
+`REFRESH-INTERVAL:PT12H`); Outlook aktualisiert Internet-Kalender in eigenem, selteneren
+Intervall (kein Live-Sync) - das ist eine Outlook-Einschraenkung, keine Eigenschaft der ICS-Datei.
+Ein manuelles Neu-Abonnieren ist bei keiner der Apps noetig.
 
 ## Wichtiger Hinweis: GitHub deaktiviert inaktive Schedules
 
