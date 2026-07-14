@@ -22,6 +22,7 @@ Der Kalendername wird gleichzeitig zum Dateinamen (`ics/<Kalendername>.ics`) und
 ```
 https://raw.githubusercontent.com/Jens269/fussball-spielplan-kalender/main/ics/SV%20Holthausen%20Biene.ics
 https://raw.githubusercontent.com/Jens269/fussball-spielplan-kalender/main/ics/SV%20Holthausen%20Biene%20II.ics
+https://raw.githubusercontent.com/Jens269/fussball-spielplan-kalender/main/ics/SV%20Holthausen%20Biene%20III.ics
 ```
 
 (Leerzeichen im Dateinamen muessen in der URL als `%20` kodiert werden.)
