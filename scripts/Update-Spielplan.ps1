@@ -45,6 +45,10 @@ if ($RawDump -and -not (Test-Path $RawDumpPath)) { New-Item -ItemType Directory 
 # pro Key geladen werden, auch wenn derselbe Key (selten) mehrfach vorkaeme.
 $digitMapCache = @{}
 
+# Ein einheitlicher Zeitstempel fuer den gesamten Lauf (nicht pro Event neu), damit
+# Resolve-EventDtStamps neuen/geaenderten Spielen konsistent denselben Wert zuweist.
+$runStamp = [DateTime]::UtcNow.ToString('yyyyMMdd\THHmmss\Z')
+
 function ConvertTo-GameKey {
   param($Game)
   if ($Game.MatchUrl) { return $Game.MatchUrl }
@@ -70,6 +74,7 @@ function New-CalendarGameEntry {
 
   return [PSCustomObject]@{
     Uid              = $uid
+    DtStamp          = $null # wird in Resolve-EventDtStamps gesetzt
     Summary          = $summary
     Description      = ($descriptionParts -join "`n")
     Url              = $Game.MatchUrl
@@ -77,6 +82,39 @@ function New-CalendarGameEntry {
     IsAllDay         = $Game.IsAllDay
     DurationMinutes  = $DurationMinutes
     IsCancelled      = $Game.IsCancelled
+  }
+}
+
+# Setzt je Spiel den DTSTAMP: fuer inhaltlich unveraenderte Spiele wird der DTSTAMP aus der
+# bestehenden .ics-Datei uebernommen, nur neue/geaenderte Spiele bekommen den aktuellen
+# Zeitstempel. So bleibt eine Datei bei unveraendertem Spielplan byte-identisch und der
+# Workflow committet nicht taeglich ohne echte Aenderung.
+function Resolve-EventDtStamps {
+  param(
+    [Parameter(Mandatory)][array]$CalendarGames,
+    [Parameter(Mandatory)][string]$CalendarName,
+    [Parameter(Mandatory)][string]$ExistingFilePath,
+    [Parameter(Mandatory)][string]$NowStamp
+  )
+
+  foreach ($g in $CalendarGames) { $g.DtStamp = 'PLACEHOLDER' }
+  $placeholderText = New-IcsCalendar -CalendarName $CalendarName -Games $CalendarGames
+  $newFingerprints = Get-IcsEventFingerprints -IcsText $placeholderText
+
+  $oldFingerprints = @{}
+  if (Test-Path $ExistingFilePath) {
+    $oldText = Get-Content -Path $ExistingFilePath -Raw
+    $oldFingerprints = Get-IcsEventFingerprints -IcsText $oldText
+  }
+
+  foreach ($g in $CalendarGames) {
+    $fp = $newFingerprints[$g.Uid]
+    if ($fp -and $oldFingerprints.ContainsKey($g.Uid) -and $oldFingerprints[$g.Uid].MaskedBody -eq $fp.MaskedBody) {
+      $g.DtStamp = $oldFingerprints[$g.Uid].DtStamp
+    }
+    else {
+      $g.DtStamp = $NowStamp
+    }
   }
 }
 
@@ -128,9 +166,10 @@ foreach ($teamName in $teams.Keys) {
   $anyTeamProducedGames = $true
 
   $calendarGames = $sortedGames | ForEach-Object { New-CalendarGameEntry -Game $_ -DurationMinutes $DurationMinutes }
+  $outFile = Join-Path $OutputPath "$teamName.ics"
+  Resolve-EventDtStamps -CalendarGames $calendarGames -CalendarName $teamName -ExistingFilePath $outFile -NowStamp $runStamp
   $icsContent = New-IcsCalendar -CalendarName $teamName -Games $calendarGames
 
-  $outFile = Join-Path $OutputPath "$teamName.ics"
   Write-Utf8NoBom -Path $outFile -Content $icsContent
   Write-Host "   -> $outFile geschrieben."
 

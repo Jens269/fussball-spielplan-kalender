@@ -96,15 +96,17 @@ function New-StableUid {
 }
 
 # Baut einen VEVENT-Block fuer ein einzelnes Spiel.
-# $Game erwartet: Uid, Summary, Description(optional), Url(optional), StartLocal(DateTime),
+# $Game erwartet: Uid, DtStamp, Summary, Description(optional), Url(optional), StartLocal(DateTime),
 #                 IsAllDay(bool), DurationMinutes(int), IsCancelled(bool)
+# DtStamp wird bewusst NICHT hier auf "jetzt" gesetzt: der Aufrufer entscheidet den Wert (siehe
+# Update-Spielplan.ps1), damit unveraendertes Spiel = unveraenderte Zeile = kein spurious Git-Diff.
 function New-IcsEvent {
   param([Parameter(Mandatory)]$Game)
 
   $lines = New-Object System.Collections.Generic.List[string]
   [void]$lines.Add('BEGIN:VEVENT')
   [void]$lines.Add("UID:$($Game.Uid)")
-  [void]$lines.Add("DTSTAMP:$([DateTime]::UtcNow.ToString('yyyyMMdd\THHmmss\Z'))")
+  [void]$lines.Add("DTSTAMP:$($Game.DtStamp)")
 
   if ($Game.IsAllDay) {
     $dtStart = $Game.StartLocal.ToString('yyyyMMdd')
@@ -163,4 +165,31 @@ function Write-Utf8NoBom {
   param([Parameter(Mandatory)][string]$Path, [Parameter(Mandatory)][string]$Content)
   $encoding = New-Object System.Text.UTF8Encoding($false)
   [System.IO.File]::WriteAllText($Path, $Content, $encoding)
+}
+
+# Entfaltet Content-Lines (hebt das RFC-5545 Line-Folding wieder auf), damit Vergleiche/Extraktion
+# nicht an einem Zeilenumbruch mitten im Wert scheitern.
+function ConvertFrom-IcsFolding {
+  param([Parameter(Mandatory)][string]$IcsText)
+  return ($IcsText -replace "`r`n ", '')
+}
+
+# Liest eine bestehende .ics-Datei und liefert je UID den kompletten (entfalteten) VEVENT-Body
+# mit maskiertem DTSTAMP-Wert - dient dem Alt/Neu-Vergleich, um zu erkennen, ob sich an einem
+# Spiel inhaltlich etwas geaendert hat, und dem Wiederverwenden des alten DTSTAMP falls nicht.
+function Get-IcsEventFingerprints {
+  param([Parameter(Mandatory)][string]$IcsText)
+
+  $unfolded = ConvertFrom-IcsFolding -IcsText $IcsText
+  $result = @{}
+  foreach ($m in [regex]::Matches($unfolded, 'BEGIN:VEVENT\r?\n(?<body>.*?)END:VEVENT', 'Singleline')) {
+    $body = $m.Groups['body'].Value
+    $uidMatch = [regex]::Match($body, 'UID:(?<uid>[^\r\n]+)')
+    if (-not $uidMatch.Success) { continue }
+    $dtStampMatch = [regex]::Match($body, 'DTSTAMP:(?<v>[^\r\n]+)')
+    $oldDtStamp = if ($dtStampMatch.Success) { $dtStampMatch.Groups['v'].Value } else { $null }
+    $maskedBody = $body -replace 'DTSTAMP:[^\r\n]+', 'DTSTAMP:MASKED'
+    $result[$uidMatch.Groups['uid'].Value] = [PSCustomObject]@{ DtStamp = $oldDtStamp; MaskedBody = $maskedBody }
+  }
+  return $result
 }
