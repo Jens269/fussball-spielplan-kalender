@@ -26,50 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0b89f68ebbe30784e61df0939f598faf9271c6439758d33407af6aa4462a2363@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143537Z
-DTSTART;TZID=Europe/Berlin:20260419T123000
-DTEND;TZID=Europe/Berlin:20260419T141500
-SUMMARY:SV Holthausen Biene II - FC 47 Leschede II (2:0)
-DESCRIPTION:Wettbewerb: 1.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
- thausen-biene-ii-fc-47-leschede-ii/-/spiel/02THSNB7LO000000VS5489BTVV9SFN0
- 7
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-fc-47-leschede-ii/
- -/spiel/02THSNB7LO000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:ecc29adde682360d16b8f5c19b34dc0c1fd2cde69115e69a211eabc363674de0@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143537Z
-DTSTART;TZID=Europe/Berlin:20260424T193000
-DTEND;TZID=Europe/Berlin:20260424T211500
-SUMMARY:VfB Lingen 1 - SV Holthausen Biene II (0:4)
-DESCRIPTION:Wettbewerb: 1.Kreisklasse\nhttps://www.fussball.de/spiel/vfb-li
- ngen-1-sv-holthausen-biene-ii/-/spiel/02THSNB72O000000VS5489BTVV9SFN07
-URL:https://www.fussball.de/spiel/vfb-lingen-1-sv-holthausen-biene-ii/-/spi
- el/02THSNB72O000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:07dc8240ecc64ab4eb113e7acab7e4d03d598f2972aa6c9dc37c080b1f5755f5@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143537Z
-DTSTART;TZID=Europe/Berlin:20260430T193000
-DTEND;TZID=Europe/Berlin:20260430T211500
-SUMMARY:SV Holthausen Biene II - Alemannia Salzbergen II (6:0)
-DESCRIPTION:Wettbewerb: 1.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
- thausen-biene-ii-alemannia-salzbergen-ii/-/spiel/02THSNB6NK000000VS5489BTV
- V9SFN07
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-alemannia-salzberg
- en-ii/-/spiel/02THSNB6NK000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:06f76bd584ecdab7a701eacb6ade910d51cfcee887ec3ad8575ce735f7a43f86@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T143537Z
@@ -171,10 +127,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:99b4eb75bea5f357dac34416751d17d7c7f7356f93300f3b10e521567baa8e97@fussba
  ll-spielplan-kalender
-DTSTAMP:20260717T071756Z
+DTSTAMP:20260718T070047Z
 DTSTART;TZID=Europe/Berlin:20260717T201500
 DTEND;TZID=Europe/Berlin:20260717T220000
-SUMMARY:SG Bramsche - SV Holthausen Biene II
+SUMMARY:SG Bramsche - SV Holthausen Biene II (0:0)
 DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sg-br
  amsche-sv-holthausen-biene-ii/-/spiel/031G24CSD0000000VS5489BUVSJ4CRAP
 URL:https://www.fussball.de/spiel/sg-bramsche-sv-holthausen-biene-ii/-/spie
@@ -185,10 +141,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:25d3a896734f6fca6e7d9082df917bae42224fa01ba8ef78ed743fbf524a808c@fussba
  ll-spielplan-kalender
-DTSTAMP:20260717T071756Z
+DTSTAMP:20260718T070047Z
 DTSTART;TZID=Europe/Berlin:20260717T210000
 DTEND;TZID=Europe/Berlin:20260717T224500
-SUMMARY:SuS Darme 1926 e.V. 1 - SV Holthausen Biene II
+SUMMARY:SuS Darme 1926 e.V. 1 - SV Holthausen Biene II (0:2)
 DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sus-d
  arme-1926-ev-1-sv-holthausen-biene-ii/-/spiel/031G24CSF0000000VS5489BUVSJ4
  CRAP
@@ -200,10 +156,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7d2f2cbd2707541a9e070a637d0b1d56e059b6178a107940858366fa73406cf7@fussba
  ll-spielplan-kalender
-DTSTAMP:20260717T071756Z
+DTSTAMP:20260718T070047Z
 DTSTART;TZID=Europe/Berlin:20260717T214500
 DTEND;TZID=Europe/Berlin:20260717T233000
-SUMMARY:SV Holthausen Biene II - SC Baccum
+SUMMARY:SV Holthausen Biene II - SC Baccum (4:3)
 DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sv-ho
  lthausen-biene-ii-sc-baccum/-/spiel/031G24CSFK000000VS5489BUVSJ4CRAP
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sc-baccum/-/spiel/
@@ -214,16 +170,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ca43d16df63e6202b242e12301df58947d8d3709684f4cdde7f917f71aaf7c79@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T143537Z
+DTSTAMP:20260718T070047Z
 DTSTART;TZID=Europe/Berlin:20260719T110000
 DTEND;TZID=Europe/Berlin:20260719T124500
-SUMMARY:SV Borussia 08 Neuenhaus II - SV Holthausen Biene II
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
- piel/sv-borussia-08-neuenhaus-ii-sv-holthausen-biene-ii/-/spiel/031E3EDLMG
- 000000VS5489BTVUS470OH
+SUMMARY:[Ausfall] SV Borussia 08 Neuenhaus II - SV Holthausen Biene II
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nStatus: Ausfall\nhttps://
+ www.fussball.de/spiel/sv-borussia-08-neuenhaus-ii-sv-holthausen-biene-ii/-
+ /spiel/031E3EDLMG000000VS5489BTVUS470OH
 URL:https://www.fussball.de/spiel/sv-borussia-08-neuenhaus-ii-sv-holthausen
  -biene-ii/-/spiel/031E3EDLMG000000VS5489BTVUS470OH
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -310,6 +266,48 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sw-varenro
  de-sv-holthausen-biene-ii/-/spiel/0317I0VHL8000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sw-varenrode-sv-holthausen-biene-ii/-/spi
  el/0317I0VHL8000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:63b241cf21ece8d3f7311713a59a3c68e8e73f807947dd50af7971e3f78fe65b@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260718T070047Z
+DTSTART;TZID=Europe/Berlin:20260913T150000
+DTEND;TZID=Europe/Berlin:20260913T164500
+SUMMARY:SV Holthausen Biene II - SV Voran Brögbern
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
+ sen-biene-ii-sv-voran-broegbern/-/spiel/0317I0VHF0000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-voran-broegbern
+ /-/spiel/0317I0VHF0000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:490b9cc2ed207e0e0e44914894a991752dc6a0c1e8a04b33eb82bf70d9bdcbc6@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260718T070047Z
+DTSTART;TZID=Europe/Berlin:20260918T193000
+DTEND;TZID=Europe/Berlin:20260918T211500
+SUMMARY:BW Lünne - SV Holthausen Biene II
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/bw-luenne-
+ sv-holthausen-biene-ii/-/spiel/0317I0VH30000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/bw-luenne-sv-holthausen-biene-ii/-/spiel/
+ 0317I0VH30000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d9acb0a7922ffc4bf4f92fb8d4a147642e7bdd0af72a1ad00d7ace491ac17ad@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260718T070047Z
+DTSTART;TZID=Europe/Berlin:20260923T193000
+DTEND;TZID=Europe/Berlin:20260923T211500
+SUMMARY:SV Holthausen Biene II - SV Germania Twist
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
+ sen-biene-ii-sv-germania-twist/-/spiel/0317I0VI30000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-germania-twist/
+ -/spiel/0317I0VI30000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
