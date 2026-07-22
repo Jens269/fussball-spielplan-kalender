@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c32c4658db96348ae7b66a4f96cfd5de48392cf92c04c6c687d8b564953ef4f6@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
-DTSTART;TZID=Europe/Berlin:20260422T193000
-DTEND;TZID=Europe/Berlin:20260422T211500
-SUMMARY:SV Holthausen Biene - VfV Borussia 06 Hildesheim (2:4)
-DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
- el/sv-holthausen-biene-vfv-borussia-06-hildesheim/-/spiel/02THQCD838000000
- VS5489BTVV9SFN07
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-vfv-borussia-06-hilde
- sheim/-/spiel/02THQCD838000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:0bc1ff1ee69c2b10b01247d38145fe0bbed8484d091b186ed732ff3032d4f158@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T143750Z
@@ -178,10 +163,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d77d6130df81a246dfcd9c21d78c79a9c8e09f3d6645b651ac9d8ecbb2d0dc5d@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
+DTSTAMP:20260722T073439Z
 DTSTART;TZID=Europe/Berlin:20260721T193000
 DTEND;TZID=Europe/Berlin:20260721T211500
-SUMMARY:SG Freren - SV Holthausen Biene
+SUMMARY:SG Freren - SV Holthausen Biene (2:4)
 DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nhttps://www.fussball.de
  /spiel/sg-freren-sv-holthausen-biene/-/spiel/03164619MG000000VS5489BUVSBBV
  PEU
@@ -315,6 +300,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-bw-lohne-ii/-/spiel/0315MRNUEK000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-bw-lohne-ii/-/spiel/0
  315MRNUEK000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e6e868b54c71c9da6fed14158a46de735cb16af8e72a93c556b4c21c6e3306c@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260722T073439Z
+DTSTART;TZID=Europe/Berlin:20260920T150000
+DTEND;TZID=Europe/Berlin:20260920T164500
+SUMMARY:TuS Pewsum - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/tus-pewsu
+ m-sv-holthausen-biene/-/spiel/0315MRNUD0000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/tus-pewsum-sv-holthausen-biene/-/spiel/03
+ 15MRNUD0000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
