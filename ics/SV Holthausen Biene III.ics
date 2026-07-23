@@ -128,10 +128,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:21ca7cf3043d1ed37f24fc9d871328803085897cdbc1360044c9a08374d26755@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T144536Z
+DTSTAMP:20260723T073349Z
 DTSTART;TZID=Europe/Berlin:20260721T190000
 DTEND;TZID=Europe/Berlin:20260721T204500
-SUMMARY:SV Holthausen Biene III - SV Eltern
+SUMMARY:SV Holthausen Biene III - SV Eltern (0:1)
 DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sv-ho
  lthausen-biene-iii-sv-eltern/-/spiel/031C3ATMD8000000VS5489BTVUS470OH
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-eltern/-/spiel
@@ -142,10 +142,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:485452e2858010284972b80fb9915ec8fabf3accbff8058516e0b0356c77b5cb@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T144536Z
+DTSTAMP:20260723T073349Z
 DTSTART;TZID=Europe/Berlin:20260721T194000
 DTEND;TZID=Europe/Berlin:20260721T212500
-SUMMARY:SV Holthausen Biene III - SG Osterbrock/​Geeste 1
+SUMMARY:SV Holthausen Biene III - SG Osterbrock/​Geeste 1 (0:3)
 DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sv-ho
  lthausen-biene-iii-sg-osterbrock-geeste-1/-/spiel/031C3ATMC8000000VS5489BT
  VUS470OH
@@ -157,10 +157,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:27a4af6560f4a97019f4e8a1a9f670effeaec7c38a0aef18a8bbd9de1ed434d4@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T144536Z
+DTSTAMP:20260723T073349Z
 DTSTART;TZID=Europe/Berlin:20260721T202000
 DTEND;TZID=Europe/Berlin:20260721T220500
-SUMMARY:SV Bawinkel - SV Holthausen Biene III
+SUMMARY:SV Bawinkel - SV Holthausen Biene III (4:0)
 DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sv-ba
  winkel-sv-holthausen-biene-iii/-/spiel/031C3ATMB8000000VS5489BTVUS470OH
 URL:https://www.fussball.de/spiel/sv-bawinkel-sv-holthausen-biene-iii/-/spi
