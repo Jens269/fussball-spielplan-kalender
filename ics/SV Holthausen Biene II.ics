@@ -200,6 +200,21 @@ STATUS:CANCELLED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:f6d3854549c643d7c2749b62bcd46cd6c05e0735859eb2328f9efdec897296d8@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260724T073241Z
+DTSTART;TZID=Europe/Berlin:20260729T193000
+DTEND;TZID=Europe/Berlin:20260729T211500
+SUMMARY:SV Holthausen Biene II - FC Schüttorf 09 II
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/sv-holthausen-biene-ii-fc-schuettorf-09-ii/-/spiel/031IBT5L98000000VS
+ 5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-fc-schuettorf-09-i
+ i/-/spiel/031IBT5L98000000VS5489BTVSRD0UH9
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:ad7b854641563aa2015be87c94adedd17973c0b26181235044c9d406142e75c2@fussba
  ll-spielplan-kalender
 DTSTAMP:20260721T073315Z
@@ -295,21 +310,6 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-sv-germania-twist/-/spiel/0317I0VI30000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-germania-twist/
  -/spiel/0317I0VI30000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:0ecbf2ea8385001408011e7df9a32bbaf9f1c98509ff74691ccf6e77fbfc965c@fussba
- ll-spielplan-kalender
-DTSTAMP:20260720T080625Z
-DTSTART;TZID=Europe/Berlin:20260927T130000
-DTEND;TZID=Europe/Berlin:20260927T144500
-SUMMARY:SV Holthausen Biene II - SC Spelle-Venhaus III
-DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
- sen-biene-ii-sc-spelle-venhaus-iii/-/spiel/0317I0VH00000000VS5489BTVU7GTVL
- E
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sc-spelle-venhaus-
- iii/-/spiel/0317I0VH00000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

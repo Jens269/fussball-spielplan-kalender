@@ -169,6 +169,35 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:d5be71e88ad5a9704b54a147709339158f08180dbfc42129066bf25fefc44b34@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260724T073241Z
+DTSTART;TZID=Europe/Berlin:20260724T180000
+DTEND;TZID=Europe/Berlin:20260724T194500
+SUMMARY:SV Dalum - SV Holthausen Biene III
+DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sv-da
+ lum-sv-holthausen-biene-iii/-/spiel/031C3ATMOC000000VS5489BTVUS470OH
+URL:https://www.fussball.de/spiel/sv-dalum-sv-holthausen-biene-iii/-/spiel/
+ 031C3ATMOC000000VS5489BTVUS470OH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:529ad4725e1ddffe6e906032460af0d0aab28fffb9d1bb5c2ad88bfe6f5a9a51@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260724T073241Z
+DTSTART;TZID=Europe/Berlin:20260730T193000
+DTEND;TZID=Europe/Berlin:20260730T211500
+SUMMARY:SV Holthausen Biene III - SV Union Lohne IV
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/sv-holthausen-biene-iii-sv-union-lohne-iv/-/spiel/031IBSO590000000VS5
+ 489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-union-lohne-iv
+ /-/spiel/031IBSO590000000VS5489BTVSRD0UH9
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:b7f7f38c52bb2375d8360189b0bf9e666a7887e0f623fc9a73ca48a9f18ee25d@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T144536Z
@@ -281,35 +310,6 @@ DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  TVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-asv-altenlingen-i
  ii/-/spiel/0317I2TBCO000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:600765f1a69a488da456f12ee259ca4d0602eca1cc539406f58baa33297f351e@fussba
- ll-spielplan-kalender
-DTSTAMP:20260722T073439Z
-DTSTART;TZID=Europe/Berlin:20261018T130000
-DTEND;TZID=Europe/Berlin:20261018T144500
-SUMMARY:TuS Lingen 2 - SV Holthausen Biene III
-DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/tus-li
- ngen-2-sv-holthausen-biene-iii/-/spiel/0317I2TB8O000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/tus-lingen-2-sv-holthausen-biene-iii/-/sp
- iel/0317I2TB8O000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:d95265d930b1cefb61e97da84b44297660128c6f7b0ea1896dc8083b8e86dc70@fussba
- ll-spielplan-kalender
-DTSTAMP:20260722T073439Z
-DTSTART;TZID=Europe/Berlin:20261023T193000
-DTEND;TZID=Europe/Berlin:20261023T211500
-SUMMARY:SuS Darme 1926 e.V. 2 - SV Holthausen Biene III
-DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sus-da
- rme-1926-ev-2-sv-holthausen-biene-iii/-/spiel/0317I2TB3K000000VS5489BTVU7G
- TVLE
-URL:https://www.fussball.de/spiel/sus-darme-1926-ev-2-sv-holthausen-biene-i
- ii/-/spiel/0317I2TB3K000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
