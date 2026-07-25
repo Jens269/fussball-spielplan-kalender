@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:83ea481275b215b08cc76ff50e27b304241ff51f6a6bfff2cfbfd99e29367d19@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T144536Z
-DTSTART;TZID=Europe/Berlin:20260412T130000
-DTEND;TZID=Europe/Berlin:20260412T144500
-SUMMARY:SV Holthausen Biene III - TuS Lingen 2 (0:1)
-DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
- thausen-biene-iii-tus-lingen-2/-/spiel/02THSS6RSK000000VS5489BTVV9SFN07
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-tus-lingen-2/-/sp
- iel/02THSS6RSK000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:f34b45b00fe4e056bd0460d8415add011f0c9cd8b8a7b9eefb53913c7189ba3c@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T144536Z
@@ -171,15 +157,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d5be71e88ad5a9704b54a147709339158f08180dbfc42129066bf25fefc44b34@fussba
  ll-spielplan-kalender
-DTSTAMP:20260724T073241Z
+DTSTAMP:20260725T071850Z
 DTSTART;TZID=Europe/Berlin:20260724T180000
 DTEND;TZID=Europe/Berlin:20260724T194500
-SUMMARY:SV Dalum - SV Holthausen Biene III
-DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sv-da
- lum-sv-holthausen-biene-iii/-/spiel/031C3ATMOC000000VS5489BTVUS470OH
+SUMMARY:[Absetzung] SV Dalum - SV Holthausen Biene III
+DESCRIPTION:Wettbewerb: Vereinsturnier\nStatus: Absetzung\nhttps://www.fuss
+ ball.de/spiel/sv-dalum-sv-holthausen-biene-iii/-/spiel/031C3ATMOC000000VS5
+ 489BTVUS470OH
 URL:https://www.fussball.de/spiel/sv-dalum-sv-holthausen-biene-iii/-/spiel/
  031C3ATMOC000000VS5489BTVUS470OH
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -310,6 +297,20 @@ DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  TVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-asv-altenlingen-i
  ii/-/spiel/0317I2TBCO000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:600765f1a69a488da456f12ee259ca4d0602eca1cc539406f58baa33297f351e@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260725T071850Z
+DTSTART;TZID=Europe/Berlin:20261018T130000
+DTEND;TZID=Europe/Berlin:20261018T144500
+SUMMARY:TuS Lingen 2 - SV Holthausen Biene III
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/tus-li
+ ngen-2-sv-holthausen-biene-iii/-/spiel/0317I2TB8O000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/tus-lingen-2-sv-holthausen-biene-iii/-/sp
+ iel/0317I2TB8O000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
