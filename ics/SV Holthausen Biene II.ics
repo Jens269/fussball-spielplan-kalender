@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:80fa781e2ba13e5a51e869fa21236c1d3796a2e5b84e2c27cb454a8463a39efb@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143537Z
-DTSTART;TZID=Europe/Berlin:20260713T193000
-DTEND;TZID=Europe/Berlin:20260713T211500
-SUMMARY:SV Wietmarschen II - SV Holthausen Biene II (4:4)
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
- piel/sv-wietmarschen-ii-sv-holthausen-biene-ii/-/spiel/0316EEF1V8000000VS5
- 489BUVSBBVPEU
-URL:https://www.fussball.de/spiel/sv-wietmarschen-ii-sv-holthausen-biene-ii
- /-/spiel/0316EEF1V8000000VS5489BUVSBBVPEU
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:b9b33d5672f05fefb675e59ee4d7830c71d46af8a43a083c6b7b47653b27d827@fussba
  ll-spielplan-kalender
 DTSTAMP:20260716T072248Z
@@ -172,10 +157,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d41a107290b66422127fe2fe3234dc6d37eadafd66b1a42a8ec9bfa3c48c9864@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T143537Z
+DTSTAMP:20260727T083129Z
 DTSTART;TZID=Europe/Berlin:20260726T140000
 DTEND;TZID=Europe/Berlin:20260726T154500
-SUMMARY:TSV Georgsdorf - SV Holthausen Biene II
+SUMMARY:TSV Georgsdorf - SV Holthausen Biene II (0:8)
 DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
  piel/tsv-georgsdorf-sv-holthausen-biene-ii/-/spiel/03187RTPTK000000VS5489B
  TVU7GTVLE
@@ -310,6 +295,21 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-sv-germania-twist/-/spiel/0317I0VI30000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-germania-twist/
  -/spiel/0317I0VI30000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ecbf2ea8385001408011e7df9a32bbaf9f1c98509ff74691ccf6e77fbfc965c@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260727T083129Z
+DTSTART;TZID=Europe/Berlin:20260927T130000
+DTEND;TZID=Europe/Berlin:20260927T144500
+SUMMARY:SV Holthausen Biene II - SC Spelle-Venhaus III
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
+ sen-biene-ii-sc-spelle-venhaus-iii/-/spiel/0317I0VH00000000VS5489BTVU7GTVL
+ E
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sc-spelle-venhaus-
+ iii/-/spiel/0317I0VH00000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

@@ -26,36 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0bc1ff1ee69c2b10b01247d38145fe0bbed8484d091b186ed732ff3032d4f158@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
-DTSTART;TZID=Europe/Berlin:20260424T193000
-DTEND;TZID=Europe/Berlin:20260424T211500
-SUMMARY:SC Spelle-Venhaus - SV Holthausen Biene (4:0)
-DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
- el/sc-spelle-venhaus-sv-holthausen-biene/-/spiel/02THQCD5AC000000VS5489BTV
- V9SFN07
-URL:https://www.fussball.de/spiel/sc-spelle-venhaus-sv-holthausen-biene/-/s
- piel/02THQCD5AC000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:79f32ef6eee9162bdde96dbd34593ae092aa5a5a83f0fee86e04a94011088f38@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
-DTSTART;TZID=Europe/Berlin:20260503T150000
-DTEND;TZID=Europe/Berlin:20260503T164500
-SUMMARY:SV Holthausen Biene - Lüneburger Sport-Klub Hansa (1:3)
-DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
- el/sv-holthausen-biene-lueneburger-sport-klub-hansa/-/spiel/02THQCD4NG0000
- 00VS5489BTVV9SFN07
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-lueneburger-sport-klu
- b-hansa/-/spiel/02THQCD4NG000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:2d61b86af4594fe23639e76e60b5002285866c9b9c32c9f4214940df6a9d2432@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T143750Z
@@ -178,10 +148,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:893ac4fae07132f49350c4f0ce9d1d018fe46f590484c12eb594c5207bc0997e@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
+DTSTAMP:20260727T083129Z
 DTSTART;TZID=Europe/Berlin:20260726T150000
 DTEND;TZID=Europe/Berlin:20260726T164500
-SUMMARY:SpVgg. Brandlecht-Hestrup - SV Holthausen Biene
+SUMMARY:SpVgg. Brandlecht-Hestrup - SV Holthausen Biene (0:5)
 DESCRIPTION:Wettbewerb: Bezirkspokal\nhttps://www.fussball.de/spiel/spvgg-b
  randlecht-hestrup-sv-holthausen-biene/-/spiel/0319T4RVBC000000VS5489BTVSK8
  S3O6
@@ -216,6 +186,21 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-sv-eintracht-nordhorn/-/spiel/0315MRNRD0000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-eintracht-nordhorn
  /-/spiel/0315MRNRD0000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2efe4c4e58e8b88e2db92d27cc10ab796d54023c30a8ff6b7c14cb2604f9d1@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260727T083129Z
+DTSTART;TZID=Europe/Berlin:20260805T190000
+DTEND;TZID=Europe/Berlin:20260805T204500
+SUMMARY:VfL Weiße Elf Nordhorn - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Bezirkspokal\nhttps://www.fussball.de/spiel/vfl-wei
+ sse-elf-nordhorn-sv-holthausen-biene/-/spiel/031HTSCKOO000000VS5489BTVSRD0
+ UH9
+URL:https://www.fussball.de/spiel/vfl-weisse-elf-nordhorn-sv-holthausen-bie
+ ne/-/spiel/031HTSCKOO000000VS5489BTVSRD0UH9
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -314,6 +299,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/tus-pewsu
  m-sv-holthausen-biene/-/spiel/0315MRNUD0000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/tus-pewsum-sv-holthausen-biene/-/spiel/03
  15MRNUD0000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:27f0a08aa761513dd68cec6c7c2815eb2cd4fe85ed481ad3db2ac0d455fffa35@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260727T083129Z
+DTSTART;TZID=Europe/Berlin:20260927T150000
+DTEND;TZID=Europe/Berlin:20260927T164500
+SUMMARY:SV Holthausen Biene - SV GW Mühlen
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
+ usen-biene-sv-gw-muehlen/-/spiel/0315MRNTK8000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-gw-muehlen/-/spiel
+ /0315MRNTK8000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
