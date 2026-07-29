@@ -172,15 +172,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:529ad4725e1ddffe6e906032460af0d0aab28fffb9d1bb5c2ad88bfe6f5a9a51@fussba
  ll-spielplan-kalender
-DTSTAMP:20260724T073241Z
+DTSTAMP:20260729T074430Z
 DTSTART;TZID=Europe/Berlin:20260730T193000
 DTEND;TZID=Europe/Berlin:20260730T211500
-SUMMARY:SV Holthausen Biene III - SV Union Lohne IV
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
- piel/sv-holthausen-biene-iii-sv-union-lohne-iv/-/spiel/031IBSO590000000VS5
- 489BTVSRD0UH9
+SUMMARY:[Absetzung] SV Holthausen Biene III - SV Union Lohne IV
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nStatus: Absetzung\nhttps:
+ //www.fussball.de/spiel/sv-holthausen-biene-iii-sv-union-lohne-iv/-/spiel/
+ 031IBSO590000000VS5489BTVSRD0UH9
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-union-lohne-iv
  /-/spiel/031IBSO590000000VS5489BTVSRD0UH9
+STATUS:CANCELLED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e1b75f41d8bbb57c46ed7cb040a2fdf9556bd7b581941c573c64180ddcbd682@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260729T074430Z
+DTSTART;TZID=Europe/Berlin:20260730T193000
+DTEND;TZID=Europe/Berlin:20260730T211500
+SUMMARY:SV Holthausen Biene III - SV Union Lohne III
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/sv-holthausen-biene-iii-sv-union-lohne-iii/-/spiel/031JURJJ7K000000VS
+ 5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-union-lohne-ii
+ i/-/spiel/031JURJJ7K000000VS5489BTVSRD0UH9
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -258,9 +273,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2d46b3cb362098ec3513e3059d01eaa6b3fa9501549d22ef869d1af7fc6b4f77@fussba
  ll-spielplan-kalender
-DTSTAMP:20260721T073315Z
-DTSTART;TZID=Europe/Berlin:20260927T130000
-DTEND;TZID=Europe/Berlin:20260927T144500
+DTSTAMP:20260729T074430Z
+DTSTART;TZID=Europe/Berlin:20260913T130000
+DTEND;TZID=Europe/Berlin:20260913T144500
 SUMMARY:SV Holthausen Biene III - SV Heidekraut Andervenne
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  thausen-biene-iii-sv-heidekraut-andervenne/-/spiel/0317I2TBNC000000VS5489B
@@ -273,9 +288,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:407cba4bf1179e8089806f274919cb62c143b369ec5cc08bbdec5a9b0cd1868a@fussba
  ll-spielplan-kalender
-DTSTAMP:20260721T073315Z
-DTSTART;TZID=Europe/Berlin:20261004T130000
-DTEND;TZID=Europe/Berlin:20261004T144500
+DTSTAMP:20260729T074430Z
+DTSTART;TZID=Europe/Berlin:20261001T200000
+DTEND;TZID=Europe/Berlin:20261001T214500
 SUMMARY:SV Concordia Emsbüren III - SV Holthausen Biene III
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-con
  cordia-emsbueren-iii-sv-holthausen-biene-iii/-/spiel/0317I2TBKO000000VS548
@@ -297,20 +312,6 @@ DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  TVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-asv-altenlingen-i
  ii/-/spiel/0317I2TBCO000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:600765f1a69a488da456f12ee259ca4d0602eca1cc539406f58baa33297f351e@fussba
- ll-spielplan-kalender
-DTSTAMP:20260725T071850Z
-DTSTART;TZID=Europe/Berlin:20261018T130000
-DTEND;TZID=Europe/Berlin:20261018T144500
-SUMMARY:TuS Lingen 2 - SV Holthausen Biene III
-DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/tus-li
- ngen-2-sv-holthausen-biene-iii/-/spiel/0317I2TB8O000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/tus-lingen-2-sv-holthausen-biene-iii/-/sp
- iel/0317I2TB8O000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
