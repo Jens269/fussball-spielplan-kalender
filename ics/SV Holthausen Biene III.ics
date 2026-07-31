@@ -26,35 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f34b45b00fe4e056bd0460d8415add011f0c9cd8b8a7b9eefb53913c7189ba3c@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T144536Z
-DTSTART;TZID=Europe/Berlin:20260424T193000
-DTEND;TZID=Europe/Berlin:20260424T211500
-SUMMARY:SV Bawinkel II - SV Holthausen Biene III (2:0)
-DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-baw
- inkel-ii-sv-holthausen-biene-iii/-/spiel/02THSS6RNG000000VS5489BTVV9SFN07
-URL:https://www.fussball.de/spiel/sv-bawinkel-ii-sv-holthausen-biene-iii/-/
- spiel/02THSS6RNG000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:a88c73c77f69ab2567ab3c3b7f3beedc184fa02d5bc2f14f15a38c0e238333d8@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T144536Z
-DTSTART;TZID=Europe/Berlin:20260506T193000
-DTEND;TZID=Europe/Berlin:20260506T211500
-SUMMARY:SV Lengerich-H. II - SV Holthausen Biene III
-DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-len
- gerich-h-ii-sv-holthausen-biene-iii/-/spiel/02THSS6R0G000000VS5489BTVV9SFN
- 07
-URL:https://www.fussball.de/spiel/sv-lengerich-h-ii-sv-holthausen-biene-iii
- /-/spiel/02THSS6R0G000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:22192ea46431abf3a2e7cb661c7c19da5c25510fc020010ba071fb5616ca0fea@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T144536Z
@@ -187,10 +158,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3e1b75f41d8bbb57c46ed7cb040a2fdf9556bd7b581941c573c64180ddcbd682@fussba
  ll-spielplan-kalender
-DTSTAMP:20260729T074430Z
+DTSTAMP:20260731T075125Z
 DTSTART;TZID=Europe/Berlin:20260730T193000
 DTEND;TZID=Europe/Berlin:20260730T211500
-SUMMARY:SV Holthausen Biene III - SV Union Lohne III
+SUMMARY:SV Holthausen Biene III - SV Union Lohne III (2:9)
 DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
  piel/sv-holthausen-biene-iii-sv-union-lohne-iii/-/spiel/031JURJJ7K000000VS
  5489BTVSRD0UH9
@@ -312,6 +283,35 @@ DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  TVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-asv-altenlingen-i
  ii/-/spiel/0317I2TBCO000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:600765f1a69a488da456f12ee259ca4d0602eca1cc539406f58baa33297f351e@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260731T075125Z
+DTSTART;TZID=Europe/Berlin:20261018T130000
+DTEND;TZID=Europe/Berlin:20261018T144500
+SUMMARY:TuS Lingen 2 - SV Holthausen Biene III
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/tus-li
+ ngen-2-sv-holthausen-biene-iii/-/spiel/0317I2TB8O000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/tus-lingen-2-sv-holthausen-biene-iii/-/sp
+ iel/0317I2TB8O000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d95265d930b1cefb61e97da84b44297660128c6f7b0ea1896dc8083b8e86dc70@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260731T075125Z
+DTSTART;TZID=Europe/Berlin:20261023T193000
+DTEND;TZID=Europe/Berlin:20261023T211500
+SUMMARY:SuS Darme 1926 e.V. 2 - SV Holthausen Biene III
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sus-da
+ rme-1926-ev-2-sv-holthausen-biene-iii/-/spiel/0317I2TB3K000000VS5489BTVU7G
+ TVLE
+URL:https://www.fussball.de/spiel/sus-darme-1926-ev-2-sv-holthausen-biene-i
+ ii/-/spiel/0317I2TB3K000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
