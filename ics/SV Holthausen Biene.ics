@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:79f32ef6eee9162bdde96dbd34593ae092aa5a5a83f0fee86e04a94011088f38@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260802T073223Z
+DTSTART;TZID=Europe/Berlin:20260503T150000
+DTEND;TZID=Europe/Berlin:20260503T164500
+SUMMARY:SV Holthausen Biene - Lüneburger Sport-Klub Hansa (1:3)
+DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
+ el/sv-holthausen-biene-lueneburger-sport-klub-hansa/-/spiel/02THQCD4NG0000
+ 00VS5489BTVV9SFN07
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-lueneburger-sport-klu
+ b-hansa/-/spiel/02THQCD4NG000000VS5489BTVV9SFN07
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:2d61b86af4594fe23639e76e60b5002285866c9b9c32c9f4214940df6a9d2432@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T143750Z
@@ -158,21 +173,6 @@ DESCRIPTION:Wettbewerb: Bezirkspokal\nhttps://www.fussball.de/spiel/spvgg-b
 URL:https://www.fussball.de/spiel/spvgg-brandlecht-hestrup-sv-holthausen-bi
  ene/-/spiel/0319T4RVBC000000VS5489BTVSK8S3O6
 STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:3941fa44190e96885f1648a6624a9b06e4c15dc59177a10b18bc96d43c3d030e@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
-DTSTART;TZID=Europe/Berlin:20260726T150000
-DTEND;TZID=Europe/Berlin:20260726T164500
-SUMMARY:[Absetzung] SC Spelle-Venhaus U23 - SV Holthausen Biene
-DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nStatus: Absetzung\nhttp
- s://www.fussball.de/spiel/sc-spelle-venhaus-u23-sv-holthausen-biene/-/spie
- l/0318JPUH0S000000VS5489BUVV628VP4
-URL:https://www.fussball.de/spiel/sc-spelle-venhaus-u23-sv-holthausen-biene
- /-/spiel/0318JPUH0S000000VS5489BUVV628VP4
-STATUS:CANCELLED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
