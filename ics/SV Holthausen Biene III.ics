@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:22192ea46431abf3a2e7cb661c7c19da5c25510fc020010ba071fb5616ca0fea@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T144536Z
-DTSTART;TZID=Europe/Berlin:20260508T193000
-DTEND;TZID=Europe/Berlin:20260508T211500
-SUMMARY:VFB Lingen II - SV Holthausen Biene III (3:1)
-DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/vfb-li
- ngen-ii-sv-holthausen-biene-iii/-/spiel/02THSS6QJK000000VS5489BTVV9SFN07
-URL:https://www.fussball.de/spiel/vfb-lingen-ii-sv-holthausen-biene-iii/-/s
- piel/02THSS6QJK000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:cb95069e73f3dd870c99668bcbd8ba8f8c156c055c4ec591bee4974b1f6f9de4@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T144536Z
@@ -173,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b7f7f38c52bb2375d8360189b0bf9e666a7887e0f623fc9a73ca48a9f18ee25d@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T144536Z
+DTSTAMP:20260803T083026Z
 DTSTART;TZID=Europe/Berlin:20260802T130000
 DTEND;TZID=Europe/Berlin:20260802T144500
-SUMMARY:SV Holthausen Biene III - SW Varenrode
+SUMMARY:SV Holthausen Biene III - SW Varenrode (1:6)
 DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-iii-sw-varenrode/-/spiel/0317AH3664000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sw-varenrode/-/sp
@@ -312,6 +298,20 @@ DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sus-da
  TVLE
 URL:https://www.fussball.de/spiel/sus-darme-1926-ev-2-sv-holthausen-biene-i
  ii/-/spiel/0317I2TB3K000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:821883591374f545eee3b577c22279d727bb6f6a8797df7fe17e9638b6077f5e@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260803T083026Z
+DTSTART;TZID=Europe/Berlin:20261101T120000
+DTEND;TZID=Europe/Berlin:20261101T134500
+SUMMARY:SV Holthausen Biene III - SV Listrup II
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
+ thausen-biene-iii-sv-listrup-ii/-/spiel/0317I2TAV8000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-listrup-ii/-/s
+ piel/0317I2TAV8000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

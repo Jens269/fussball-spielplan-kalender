@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:79f32ef6eee9162bdde96dbd34593ae092aa5a5a83f0fee86e04a94011088f38@fussba
- ll-spielplan-kalender
-DTSTAMP:20260802T073223Z
-DTSTART;TZID=Europe/Berlin:20260503T150000
-DTEND;TZID=Europe/Berlin:20260503T164500
-SUMMARY:SV Holthausen Biene - Lüneburger Sport-Klub Hansa (1:3)
-DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
- el/sv-holthausen-biene-lueneburger-sport-klub-hansa/-/spiel/02THQCD4NG0000
- 00VS5489BTVV9SFN07
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-lueneburger-sport-klu
- b-hansa/-/spiel/02THQCD4NG000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:2d61b86af4594fe23639e76e60b5002285866c9b9c32c9f4214940df6a9d2432@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T143750Z
@@ -178,29 +163,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a8d9af84132687d76ba1b2bea1971cb6756fd96c872b9d1046a22f1679d46ce9@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
+DTSTAMP:20260803T083026Z
 DTSTART;TZID=Europe/Berlin:20260802T150000
 DTEND;TZID=Europe/Berlin:20260802T164500
-SUMMARY:SV Holthausen Biene - SV Eintracht Nordhorn
+SUMMARY:SV Holthausen Biene - SV Eintracht Nordhorn (0:3)
 DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-sv-eintracht-nordhorn/-/spiel/0315MRNRD0000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-eintracht-nordhorn
  /-/spiel/0315MRNRD0000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:2a2efe4c4e58e8b88e2db92d27cc10ab796d54023c30a8ff6b7c14cb2604f9d1@fussba
- ll-spielplan-kalender
-DTSTAMP:20260727T083129Z
-DTSTART;TZID=Europe/Berlin:20260805T190000
-DTEND;TZID=Europe/Berlin:20260805T204500
-SUMMARY:VfL Weiße Elf Nordhorn - SV Holthausen Biene
-DESCRIPTION:Wettbewerb: Bezirkspokal\nhttps://www.fussball.de/spiel/vfl-wei
- sse-elf-nordhorn-sv-holthausen-biene/-/spiel/031HTSCKOO000000VS5489BTVSRD0
- UH9
-URL:https://www.fussball.de/spiel/vfl-weisse-elf-nordhorn-sv-holthausen-bie
- ne/-/spiel/031HTSCKOO000000VS5489BTVSRD0UH9
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -215,6 +185,21 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/vfl-olden
  burg-sv-holthausen-biene/-/spiel/0315MRO12O000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/vfl-oldenburg-sv-holthausen-biene/-/spiel
  /0315MRO12O000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2efe4c4e58e8b88e2db92d27cc10ab796d54023c30a8ff6b7c14cb2604f9d1@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260803T083026Z
+DTSTART;TZID=Europe/Berlin:20260812T191500
+DTEND;TZID=Europe/Berlin:20260812T210000
+SUMMARY:VfL Weiße Elf Nordhorn - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Bezirkspokal\nhttps://www.fussball.de/spiel/vfl-wei
+ sse-elf-nordhorn-sv-holthausen-biene/-/spiel/031HTSCKOO000000VS5489BTVSRD0
+ UH9
+URL:https://www.fussball.de/spiel/vfl-weisse-elf-nordhorn-sv-holthausen-bie
+ ne/-/spiel/031HTSCKOO000000VS5489BTVSRD0UH9
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -313,6 +298,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-sv-gw-muehlen/-/spiel/0315MRNTK8000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-gw-muehlen/-/spiel
  /0315MRNTK8000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:32ffc66f9079c7b9bd0fcba16924d1b28e1933e0cb421e9ef860bcd01b152e4f@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260803T083026Z
+DTSTART;TZID=Europe/Berlin:20261004T150000
+DTEND;TZID=Europe/Berlin:20261004T164500
+SUMMARY:TV Dinklage - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/tv-dinkla
+ ge-sv-holthausen-biene/-/spiel/0315MRNTG0000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/tv-dinklage-sv-holthausen-biene/-/spiel/0
+ 315MRNTG0000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

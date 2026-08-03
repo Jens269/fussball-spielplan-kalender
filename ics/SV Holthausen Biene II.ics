@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c68a42a0a642542babd3734bf9fb3ec31d24af79ddb0f75b64b61e6841553572@fussba
- ll-spielplan-kalender
-DTSTAMP:20260716T072248Z
-DTSTART;TZID=Europe/Berlin:20260715T202000
-DTEND;TZID=Europe/Berlin:20260715T220500
-SUMMARY:VfB Lingen I - SV Holthausen Biene II (1:1)
-DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/vfb-l
- ingen-i-sv-holthausen-biene-ii/-/spiel/031CN0D4AS000000VS5489BTVUS470OH
-URL:https://www.fussball.de/spiel/vfb-lingen-i-sv-holthausen-biene-ii/-/spi
- el/031CN0D4AS000000VS5489BTVUS470OH
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:99b4eb75bea5f357dac34416751d17d7c7f7356f93300f3b10e521567baa8e97@fussba
  ll-spielplan-kalender
 DTSTAMP:20260718T070047Z
@@ -174,10 +160,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ad7b854641563aa2015be87c94adedd17973c0b26181235044c9d406142e75c2@fussba
  ll-spielplan-kalender
-DTSTAMP:20260721T073315Z
+DTSTAMP:20260803T083026Z
 DTSTART;TZID=Europe/Berlin:20260802T130000
 DTEND;TZID=Europe/Berlin:20260802T144500
-SUMMARY:SC Spelle-Venhaus III - SV Holthausen Biene II
+SUMMARY:SC Spelle-Venhaus III - SV Holthausen Biene II (2:5)
 DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/sc-spelle
  -venhaus-iii-sv-holthausen-biene-ii/-/spiel/0317AH34GO000000VS5489BTVU7GTV
  LE
@@ -310,6 +296,20 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-sg-bramsche/-/spiel/0317I0VGJ4000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sg-bramsche/-/spie
  l/0317I0VGJ4000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c099ac68808463d9765ea47bc85e9bbc97d741ebb6fd7c057b56b08145d16468@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260803T083026Z
+DTSTART;TZID=Europe/Berlin:20261018T130000
+DTEND;TZID=Europe/Berlin:20261018T144500
+SUMMARY:SV Olympia Laxten II - SV Holthausen Biene II
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-olympia
+ -laxten-ii-sv-holthausen-biene-ii/-/spiel/0317I0VGC0000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-olympia-laxten-ii-sv-holthausen-biene-
+ ii/-/spiel/0317I0VGC0000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
