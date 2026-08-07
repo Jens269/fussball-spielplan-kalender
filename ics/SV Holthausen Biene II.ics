@@ -201,6 +201,20 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:9ae81aebf9c85fb41afefc14b5bdff53d6d6adbccde1235a8611048965062348@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260807T060932Z
+DTSTART;TZID=Europe/Berlin:20260819T193000
+DTEND;TZID=Europe/Berlin:20260819T211500
+SUMMARY:SV Holthausen Biene II - VfL Emslage I
+DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/sv-holtha
+ usen-biene-ii-vfl-emslage-i/-/spiel/031MN64TCK000000VS5489BTVV1LNS7C
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-vfl-emslage-i/-/sp
+ iel/031MN64TCK000000VS5489BTVV1LNS7C
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:fe3228c153413794210c2fa272b38211c80c6b0287cb8c8f885159fd86d06686@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T143537Z
@@ -296,20 +310,6 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-sg-bramsche/-/spiel/0317I0VGJ4000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sg-bramsche/-/spie
  l/0317I0VGJ4000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:c099ac68808463d9765ea47bc85e9bbc97d741ebb6fd7c057b56b08145d16468@fussba
- ll-spielplan-kalender
-DTSTAMP:20260803T083026Z
-DTSTART;TZID=Europe/Berlin:20261018T130000
-DTEND;TZID=Europe/Berlin:20261018T144500
-SUMMARY:SV Olympia Laxten II - SV Holthausen Biene II
-DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-olympia
- -laxten-ii-sv-holthausen-biene-ii/-/spiel/0317I0VGC0000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-olympia-laxten-ii-sv-holthausen-biene-
- ii/-/spiel/0317I0VGC0000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
