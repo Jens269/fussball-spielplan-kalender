@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:99b4eb75bea5f357dac34416751d17d7c7f7356f93300f3b10e521567baa8e97@fussba
- ll-spielplan-kalender
-DTSTAMP:20260718T070047Z
-DTSTART;TZID=Europe/Berlin:20260717T201500
-DTEND;TZID=Europe/Berlin:20260717T220000
-SUMMARY:SG Bramsche - SV Holthausen Biene II (0:0)
-DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sg-br
- amsche-sv-holthausen-biene-ii/-/spiel/031G24CSD0000000VS5489BUVSJ4CRAP
-URL:https://www.fussball.de/spiel/sg-bramsche-sv-holthausen-biene-ii/-/spie
- l/031G24CSD0000000VS5489BUVSJ4CRAP
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:25d3a896734f6fca6e7d9082df917bae42224fa01ba8ef78ed743fbf524a808c@fussba
  ll-spielplan-kalender
 DTSTAMP:20260718T070047Z
@@ -175,10 +161,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c8ec1dac6a7a2b07bf87d0f7aac9ebedb083ee6f29563cef57992651730ba3bc@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T143537Z
+DTSTAMP:20260809T054719Z
 DTSTART;TZID=Europe/Berlin:20260808T150000
 DTEND;TZID=Europe/Berlin:20260808T164500
-SUMMARY:SV Holthausen Biene II - SV Lengerich-H.
+SUMMARY:SV Holthausen Biene II - SV Lengerich-H. (3:0)
 DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-sv-lengerich-h/-/spiel/0317I0VIMC000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-lengerich-h/-/s
@@ -310,6 +296,20 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-sg-bramsche/-/spiel/0317I0VGJ4000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sg-bramsche/-/spie
  l/0317I0VGJ4000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c099ac68808463d9765ea47bc85e9bbc97d741ebb6fd7c057b56b08145d16468@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260809T054719Z
+DTSTART;TZID=Europe/Berlin:20261018T130000
+DTEND;TZID=Europe/Berlin:20261018T144500
+SUMMARY:SV Olympia Laxten II - SV Holthausen Biene II
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-olympia
+ -laxten-ii-sv-holthausen-biene-ii/-/spiel/0317I0VGC0000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-olympia-laxten-ii-sv-holthausen-biene-
+ ii/-/spiel/0317I0VGC0000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
