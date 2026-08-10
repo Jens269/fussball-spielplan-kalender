@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2d61b86af4594fe23639e76e60b5002285866c9b9c32c9f4214940df6a9d2432@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
-DTSTART;TZID=Europe/Berlin:20260506T193000
-DTEND;TZID=Europe/Berlin:20260506T211500
-SUMMARY:SV Holthausen Biene - 1.FC Germania Egestorf-Langreder (1:2)
-DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
- el/sv-holthausen-biene-1fc-germania-egestorf-langreder/-/spiel/02THQCDA9C0
- 00000VS5489BTVV9SFN07
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-1fc-germania-egestorf
- -langreder/-/spiel/02THQCDA9C000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:44262c23cc5a7e75d1fa700c9eabd40dfc0690bf1681bc9bcc97f120e249cb4b@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T143750Z
@@ -177,10 +162,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9a704ba7e1cefa96afcece39f7a5e2a580c1b2580a138e9b976da4f74372a487@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
+DTSTAMP:20260810T061057Z
 DTSTART;TZID=Europe/Berlin:20260809T150000
 DTEND;TZID=Europe/Berlin:20260809T164500
-SUMMARY:VfL Oldenburg - SV Holthausen Biene
+SUMMARY:VfL Oldenburg - SV Holthausen Biene (4:1)
 DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/vfl-olden
  burg-sv-holthausen-biene/-/spiel/0315MRO12O000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/vfl-oldenburg-sv-holthausen-biene/-/spiel
@@ -312,6 +297,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/tv-dinkla
  ge-sv-holthausen-biene/-/spiel/0315MRNTG0000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/tv-dinklage-sv-holthausen-biene/-/spiel/0
  315MRNTG0000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b993051fc078394d7ce1871b7b1e3bb14dd478f233307c7f238b37a502c0d34@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260810T061057Z
+DTSTART;TZID=Europe/Berlin:20261011T150000
+DTEND;TZID=Europe/Berlin:20261011T164500
+SUMMARY:SV Holthausen Biene - SV Bevern
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
+ usen-biene-sv-bevern/-/spiel/0315MRNSTO000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-bevern/-/spiel/031
+ 5MRNSTO000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
