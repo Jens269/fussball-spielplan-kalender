@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:44262c23cc5a7e75d1fa700c9eabd40dfc0690bf1681bc9bcc97f120e249cb4b@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
-DTSTART;TZID=Europe/Berlin:20260509T180000
-DTEND;TZID=Europe/Berlin:20260509T194500
-SUMMARY:SV Atlas Delmenhorst - SV Holthausen Biene (3:1)
-DESCRIPTION:Wettbewerb: Oberliga Niedersachsen\nhttps://www.fussball.de/spi
- el/sv-atlas-delmenhorst-sv-holthausen-biene/-/spiel/02THQCD498000000VS5489
- BTVV9SFN07
-URL:https://www.fussball.de/spiel/sv-atlas-delmenhorst-sv-holthausen-biene/
- -/spiel/02THQCD498000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:0330ef66a95b3412476ab38651167d7fda78d04925f04037f107238b3d51283e@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T143750Z
@@ -176,10 +161,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2a2efe4c4e58e8b88e2db92d27cc10ab796d54023c30a8ff6b7c14cb2604f9d1@fussba
  ll-spielplan-kalender
-DTSTAMP:20260803T083026Z
+DTSTAMP:20260813T061724Z
 DTSTART;TZID=Europe/Berlin:20260812T191500
 DTEND;TZID=Europe/Berlin:20260812T210000
-SUMMARY:VfL Weiße Elf Nordhorn - SV Holthausen Biene
+SUMMARY:VfL Weiße Elf Nordhorn - SV Holthausen Biene (0:2)
 DESCRIPTION:Wettbewerb: Bezirkspokal\nhttps://www.fussball.de/spiel/vfl-wei
  sse-elf-nordhorn-sv-holthausen-biene/-/spiel/031HTSCKOO000000VS5489BTVSRD0
  UH9
@@ -311,6 +296,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-sv-bevern/-/spiel/0315MRNSTO000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-bevern/-/spiel/031
  5MRNSTO000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:64b350375e83ed0d2a961174dc523d496a29d33c2a5d71a3aed16083dc51e60a@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260813T061724Z
+DTSTART;TZID=Europe/Berlin:20261018T150000
+DTEND;TZID=Europe/Berlin:20261018T164500
+SUMMARY:BV Garrel - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/bv-garrel
+ -sv-holthausen-biene/-/spiel/0315MRNSL0000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/bv-garrel-sv-holthausen-biene/-/spiel/031
+ 5MRNSL0000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
