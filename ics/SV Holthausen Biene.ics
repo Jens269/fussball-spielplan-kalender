@@ -216,6 +216,21 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:2daba3156d5ea02c3078d78734abd44132cd04576bbabdc0ed0bc7e655291a7e@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260815T052529Z
+DTSTART;TZID=Europe/Berlin:20260902T193000
+DTEND;TZID=Europe/Berlin:20260902T211500
+SUMMARY:SV Alemannia Salzbergen - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Bezirkspokal\nhttps://www.fussball.de/spiel/sv-alem
+ annia-salzbergen-sv-holthausen-biene/-/spiel/031PDTS08C000000VS5489BTVT8K1
+ 1BC
+URL:https://www.fussball.de/spiel/sv-alemannia-salzbergen-sv-holthausen-bie
+ ne/-/spiel/031PDTS08C000000VS5489BTVT8K11BC
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:97cd9fce3e182e6c933800062e9dd0ad7db91eeff65a19f14de34ae9989f7a7e@fussba
  ll-spielplan-kalender
 DTSTAMP:20260717T071756Z
@@ -296,20 +311,6 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-sv-bevern/-/spiel/0315MRNSTO000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-bevern/-/spiel/031
  5MRNSTO000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:64b350375e83ed0d2a961174dc523d496a29d33c2a5d71a3aed16083dc51e60a@fussba
- ll-spielplan-kalender
-DTSTAMP:20260813T061724Z
-DTSTART;TZID=Europe/Berlin:20261018T150000
-DTEND;TZID=Europe/Berlin:20261018T164500
-SUMMARY:BV Garrel - SV Holthausen Biene
-DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/bv-garrel
- -sv-holthausen-biene/-/spiel/0315MRNSL0000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/bv-garrel-sv-holthausen-biene/-/spiel/031
- 5MRNSL0000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

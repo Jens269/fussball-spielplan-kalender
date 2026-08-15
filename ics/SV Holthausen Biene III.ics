@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cb95069e73f3dd870c99668bcbd8ba8f8c156c055c4ec591bee4974b1f6f9de4@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T144536Z
-DTSTART;TZID=Europe/Berlin:20260513T200000
-DTEND;TZID=Europe/Berlin:20260513T214500
-SUMMARY:SV Wettrup - SV Holthausen Biene III (5:1)
-DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-wet
- trup-sv-holthausen-biene-iii/-/spiel/02THSS6NLC000000VS5489BTVV9SFN07
-URL:https://www.fussball.de/spiel/sv-wettrup-sv-holthausen-biene-iii/-/spie
- l/02THSS6NLC000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:a00b6c5f39dfb21a3a3ace814d729d66387beeec1d3dcd8328d0df022d2960d8@fussba
  ll-spielplan-kalender
 DTSTAMP:20260722T073439Z
@@ -173,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:37ae89713ce794a7e65c11adcdfedff258554994570ad14785fa82a29231802e@fussba
  ll-spielplan-kalender
-DTSTAMP:20260721T073315Z
+DTSTAMP:20260815T052529Z
 DTSTART;TZID=Europe/Berlin:20260814T193000
 DTEND;TZID=Europe/Berlin:20260814T211500
-SUMMARY:SV Holthausen Biene III - SV Wettrup
+SUMMARY:SV Holthausen Biene III - SV Wettrup (3:3)
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  thausen-biene-iii-sv-wettrup/-/spiel/0317I2TCEO000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-wettrup/-/spie
@@ -312,6 +298,20 @@ DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  thausen-biene-iii-sv-listrup-ii/-/spiel/0317I2TAV8000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-listrup-ii/-/s
  piel/0317I2TAV8000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:71885a7898ce40f3661de1ba1429d19dbc3ba690bb00eaa18e4f2246ddab4212@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260815T052529Z
+DTSTART;TZID=Europe/Berlin:20261108T120000
+DTEND;TZID=Europe/Berlin:20261108T134500
+SUMMARY:SV Holthausen Biene III - SC Baccum II
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
+ thausen-biene-iii-sc-baccum-ii/-/spiel/0317I2TFOG000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sc-baccum-ii/-/sp
+ iel/0317I2TFOG000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
