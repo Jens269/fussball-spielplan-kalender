@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:25d3a896734f6fca6e7d9082df917bae42224fa01ba8ef78ed743fbf524a808c@fussba
- ll-spielplan-kalender
-DTSTAMP:20260718T070047Z
-DTSTART;TZID=Europe/Berlin:20260717T210000
-DTEND;TZID=Europe/Berlin:20260717T224500
-SUMMARY:SuS Darme 1926 e.V. 1 - SV Holthausen Biene II (0:2)
-DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sus-d
- arme-1926-ev-1-sv-holthausen-biene-ii/-/spiel/031G24CSF0000000VS5489BUVSJ4
- CRAP
-URL:https://www.fussball.de/spiel/sus-darme-1926-ev-1-sv-holthausen-biene-i
- i/-/spiel/031G24CSF0000000VS5489BUVSJ4CRAP
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:7d2f2cbd2707541a9e070a637d0b1d56e059b6178a107940858366fa73406cf7@fussba
  ll-spielplan-kalender
 DTSTAMP:20260718T070047Z
@@ -175,10 +160,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fbcb9c557a1950391d8ef9bbc310b8d972b6183c365c7d352553956357900d26@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T143537Z
+DTSTAMP:20260817T053550Z
 DTSTART;TZID=Europe/Berlin:20260816T150000
 DTEND;TZID=Europe/Berlin:20260816T164500
-SUMMARY:BV Clusorth-Bramhar - SV Holthausen Biene II
+SUMMARY:BV Clusorth-Bramhar - SV Holthausen Biene II (4:3)
 DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/bv-clusort
  h-bramhar-sv-holthausen-biene-ii/-/spiel/0317I0VIBK000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/bv-clusorth-bramhar-sv-holthausen-biene-i
@@ -310,6 +295,20 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-olympia
  -laxten-ii-sv-holthausen-biene-ii/-/spiel/0317I0VGC0000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-olympia-laxten-ii-sv-holthausen-biene-
  ii/-/spiel/0317I0VGC0000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9a4e1a9f796b036b0c044bc5d800fa1bb2ea031967cb59500371511dc525baf@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260817T053550Z
+DTSTART;TZID=Europe/Berlin:20261025T150000
+DTEND;TZID=Europe/Berlin:20261025T164500
+SUMMARY:SV Holthausen Biene II - ASV Altenlingen II
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
+ sen-biene-ii-asv-altenlingen-ii/-/spiel/0317I0VG74000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-asv-altenlingen-ii
+ /-/spiel/0317I0VG74000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
