@@ -200,6 +200,20 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:d6236feb1c8ffcceabdf1f9fb3767a771fd4c673a659bc42e0b92913ebc82d46@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260821T053333Z
+DTSTART;TZID=Europe/Berlin:20260916T193000
+DTEND;TZID=Europe/Berlin:20260916T211500
+SUMMARY:FC Wesuwe - SV Holthausen Biene II
+DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/fc-wesuwe
+ -sv-holthausen-biene-ii/-/spiel/031R9L0THS000000VS5489BUVVE0O1R6
+URL:https://www.fussball.de/spiel/fc-wesuwe-sv-holthausen-biene-ii/-/spiel/
+ 031R9L0THS000000VS5489BUVVE0O1R6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:490b9cc2ed207e0e0e44914894a991752dc6a0c1e8a04b33eb82bf70d9bdcbc6@fussba
  ll-spielplan-kalender
 DTSTAMP:20260718T070047Z
@@ -295,21 +309,6 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-asv-altenlingen-ii/-/spiel/0317I0VG74000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-asv-altenlingen-ii
  /-/spiel/0317I0VG74000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:763b449c22b74fd334a53f6c36877669ae86b858c87bc806b34e6bd520654070@fussba
- ll-spielplan-kalender
-DTSTAMP:20260820T053210Z
-DTSTART;TZID=Europe/Berlin:20261101T140000
-DTEND;TZID=Europe/Berlin:20261101T154500
-SUMMARY:SG Osterbrock/​Geeste 1 - SV Holthausen Biene II
-DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sg-osterbr
- ock-geeste-1-sv-holthausen-biene-ii/-/spiel/0317I0VFVG000000VS5489BTVU7GTV
- LE
-URL:https://www.fussball.de/spiel/sg-osterbrock-geeste-1-sv-holthausen-bien
- e-ii/-/spiel/0317I0VFVG000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
