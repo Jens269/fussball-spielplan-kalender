@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:96b1836864036a9b39129f1e485d26f6985e391a270b9f87645a26712b4ba853@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
-DTSTART;TZID=Europe/Berlin:20260705T140000
-DTEND;TZID=Europe/Berlin:20260705T154500
-SUMMARY:SV Holthausen Biene - TUS Bersenbrück (1:4)
-DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nhttps://www.fussball.de
- /spiel/sv-holthausen-biene-tus-bersenbrueck/-/spiel/0313HM0PD8000000VS5489
- BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-tus-bersenbrueck/-/sp
- iel/0313HM0PD8000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:251d8e00c95b55be341867342d048716bfc185a73917d3832f3e94f8dd9958db@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T143750Z
@@ -175,10 +160,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3d9ed00b93d0161a960805ef02e22ab7dcf4efa6585b7ac3eea1301a4025d494@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
+DTSTAMP:20260823T053036Z
 DTSTART;TZID=Europe/Berlin:20260822T160000
 DTEND;TZID=Europe/Berlin:20260822T174500
-SUMMARY:SV Altenoythe - SV Holthausen Biene
+SUMMARY:SV Altenoythe - SV Holthausen Biene (0:2)
 DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-alteno
  ythe-sv-holthausen-biene/-/spiel/0315MRO00O000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-altenoythe-sv-holthausen-biene/-/spiel
@@ -310,6 +295,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/bv-garrel
  -sv-holthausen-biene/-/spiel/0315MRNSL0000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/bv-garrel-sv-holthausen-biene/-/spiel/031
  5MRNSL0000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8774f04012b37bb7228d8f8dc86f3feea2ce73f4bbd104f114294124de13302@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260823T053036Z
+DTSTART;TZID=Europe/Berlin:20261028T193000
+DTEND;TZID=Europe/Berlin:20261028T211500
+SUMMARY:SV Holthausen Biene - BW Hollage
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
+ usen-biene-bw-hollage/-/spiel/0315MRNS7G000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-bw-hollage/-/spiel/03
+ 15MRNS7G000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
