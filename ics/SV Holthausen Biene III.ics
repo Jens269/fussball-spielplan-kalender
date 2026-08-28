@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a00b6c5f39dfb21a3a3ace814d729d66387beeec1d3dcd8328d0df022d2960d8@fussba
- ll-spielplan-kalender
-DTSTAMP:20260722T073439Z
-DTSTART;TZID=Europe/Berlin:20260528T193000
-DTEND;TZID=Europe/Berlin:20260528T211500
-SUMMARY:SC Baccum II - SV Holthausen Biene III (4:2)
-DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sc-bac
- cum-ii-sv-holthausen-biene-iii/-/spiel/02THSS6QAC000000VS5489BTVV9SFN07
-URL:https://www.fussball.de/spiel/sc-baccum-ii-sv-holthausen-biene-iii/-/sp
- iel/02THSS6QAC000000VS5489BTVV9SFN07
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:590b08eefd8c2f1be3b93fc81d5a78818b57110cd37bae207c58e2978754a448@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T144536Z
@@ -173,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:47aa4961950e172424cac96bc5e8e972fe2a572cdc4c2a33ba12d06b80674dc1@fussba
  ll-spielplan-kalender
-DTSTAMP:20260722T073439Z
+DTSTAMP:20260828T171111Z
 DTSTART;TZID=Europe/Berlin:20260827T200000
 DTEND;TZID=Europe/Berlin:20260827T214500
-SUMMARY:SC Spelle-Venhaus IV - SV Holthausen Biene III
+SUMMARY:SC Spelle-Venhaus IV - SV Holthausen Biene III (7:1)
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sc-spe
  lle-venhaus-iv-sv-holthausen-biene-iii/-/spiel/0317I2TCAC000000VS5489BTVU7
  GTVLE
@@ -312,6 +298,20 @@ DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  thausen-biene-iii-sc-baccum-ii/-/spiel/0317I2TFOG000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sc-baccum-ii/-/sp
  iel/0317I2TFOG000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb95069e73f3dd870c99668bcbd8ba8f8c156c055c4ec591bee4974b1f6f9de4@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260828T171111Z
+DTSTART;TZID=Europe/Berlin:20261115T140000
+DTEND;TZID=Europe/Berlin:20261115T154500
+SUMMARY:SV Wettrup - SV Holthausen Biene III
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-wet
+ trup-sv-holthausen-biene-iii/-/spiel/0317I2TF8G000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-wettrup-sv-holthausen-biene-iii/-/spie
+ l/0317I2TF8G000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

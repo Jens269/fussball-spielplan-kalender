@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:251d8e00c95b55be341867342d048716bfc185a73917d3832f3e94f8dd9958db@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
-DTSTART;TZID=Europe/Berlin:20260708T193000
-DTEND;TZID=Europe/Berlin:20260708T211500
-SUMMARY:SV Holthausen Biene - SV Meppen II (0:2)
-DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nhttps://www.fussball.de
- /spiel/sv-holthausen-biene-sv-meppen-ii/-/spiel/031969KC18000000VS5489BUVV
- 628VP4
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-meppen-ii/-/spiel/
- 031969KC18000000VS5489BUVV628VP4
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:b63c8ae20d4523bcee3bfa6ddba32ee78032da53a63135a8cbfd69ed6f106a2c@fussba
  ll-spielplan-kalender
 DTSTAMP:20260714T143750Z
@@ -174,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8a6dff5c70616653529fc65179f45d13f1e767b2010df3607db9d566e9fde114@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
+DTSTAMP:20260828T171111Z
 DTSTART;TZID=Europe/Berlin:20260827T193000
 DTEND;TZID=Europe/Berlin:20260827T211500
-SUMMARY:SV Holthausen Biene - SV Union Lohne
+SUMMARY:SV Holthausen Biene - SV Union Lohne (0:2)
 DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-sv-union-lohne/-/spiel/0315MRNV9C000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-union-lohne/-/spie
@@ -309,6 +294,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-bw-hollage/-/spiel/0315MRNS7G000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-bw-hollage/-/spiel/03
  15MRNS7G000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a3bf447af241b8e80b85c3f410a88e1377e243632b7d148ef03496a2fad885a0@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260828T171111Z
+DTSTART;TZID=Europe/Berlin:20261031T143000
+DTEND;TZID=Europe/Berlin:20261031T161500
+SUMMARY:FC Schüttorf 09 - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/fc-schuet
+ torf-09-sv-holthausen-biene/-/spiel/0315MRNS00000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/fc-schuettorf-09-sv-holthausen-biene/-/sp
+ iel/0315MRNS00000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
