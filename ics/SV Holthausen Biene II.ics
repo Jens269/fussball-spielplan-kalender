@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ab215a64120081bec2cecc07e146583f1cab9b64117a27d103a8c0eccf1dc68f@fussba
- ll-spielplan-kalender
-DTSTAMP:20260720T080625Z
-DTSTART;TZID=Europe/Berlin:20260718T160000
-DTEND;TZID=Europe/Berlin:20260718T174500
-SUMMARY:SV Holthausen Biene II - SV Olympia Laxten I
-DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sv-ho
- lthausen-biene-ii-sv-olympia-laxten-i/-/spiel/031G24CST0000000VS5489BUVSJ4
- CRAP
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-olympia-laxten-
- i/-/spiel/031G24CST0000000VS5489BUVSJ4CRAP
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:ca43d16df63e6202b242e12301df58947d8d3709684f4cdde7f917f71aaf7c79@fussba
  ll-spielplan-kalender
 DTSTAMP:20260718T070047Z
@@ -174,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fe3228c153413794210c2fa272b38211c80c6b0287cb8c8f885159fd86d06686@fussba
  ll-spielplan-kalender
-DTSTAMP:20260714T143537Z
+DTSTAMP:20260829T112959Z
 DTSTART;TZID=Europe/Berlin:20260828T193000
 DTEND;TZID=Europe/Berlin:20260828T211500
-SUMMARY:SW Varenrode - SV Holthausen Biene II
+SUMMARY:SW Varenrode - SV Holthausen Biene II (1:5)
 DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sw-varenro
  de-sv-holthausen-biene-ii/-/spiel/0317I0VHL8000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sw-varenrode-sv-holthausen-biene-ii/-/spi
@@ -309,6 +294,21 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-asv-altenlingen-ii/-/spiel/0317I0VG74000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-asv-altenlingen-ii
  /-/spiel/0317I0VG74000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:763b449c22b74fd334a53f6c36877669ae86b858c87bc806b34e6bd520654070@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260829T112959Z
+DTSTART;TZID=Europe/Berlin:20261101T140000
+DTEND;TZID=Europe/Berlin:20261101T154500
+SUMMARY:SG Osterbrock/​Geeste 1 - SV Holthausen Biene II
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sg-osterbr
+ ock-geeste-1-sv-holthausen-biene-ii/-/spiel/0317I0VFVG000000VS5489BTVU7GTV
+ LE
+URL:https://www.fussball.de/spiel/sg-osterbrock-geeste-1-sv-holthausen-bien
+ e-ii/-/spiel/0317I0VFVG000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
