@@ -171,6 +171,21 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:64bb4d2284d8338c422ab2af07b7181b00c4841ef36199d3796628641999ab88@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260902T092022Z
+DTSTART;TZID=Europe/Berlin:20260904T193000
+DTEND;TZID=Europe/Berlin:20260904T211500
+SUMMARY:SV Holthausen Biene II - SV Vorwärts Nordhorn III
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/sv-holthausen-biene-ii-sv-vorwaerts-nordhorn-iii/-/spiel/031VBSOEOO00
+ 0000VS5489BTVT7QHFUC
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-vorwaerts-nordh
+ orn-iii/-/spiel/031VBSOEOO000000VS5489BTVT7QHFUC
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:63b241cf21ece8d3f7311713a59a3c68e8e73f807947dd50af7971e3f78fe65b@fussba
  ll-spielplan-kalender
 DTSTAMP:20260718T070047Z
@@ -294,21 +309,6 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-asv-altenlingen-ii/-/spiel/0317I0VG74000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-asv-altenlingen-ii
  /-/spiel/0317I0VG74000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:763b449c22b74fd334a53f6c36877669ae86b858c87bc806b34e6bd520654070@fussba
- ll-spielplan-kalender
-DTSTAMP:20260829T112959Z
-DTSTART;TZID=Europe/Berlin:20261101T140000
-DTEND;TZID=Europe/Berlin:20261101T154500
-SUMMARY:SG Osterbrock/​Geeste 1 - SV Holthausen Biene II
-DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sg-osterbr
- ock-geeste-1-sv-holthausen-biene-ii/-/spiel/0317I0VFVG000000VS5489BTVU7GTV
- LE
-URL:https://www.fussball.de/spiel/sg-osterbrock-geeste-1-sv-holthausen-bien
- e-ii/-/spiel/0317I0VFVG000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
