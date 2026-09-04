@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b63c8ae20d4523bcee3bfa6ddba32ee78032da53a63135a8cbfd69ed6f106a2c@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T143750Z
-DTSTART;TZID=Europe/Berlin:20260711T120000
-DTEND;TZID=Europe/Berlin:20260711T134500
-SUMMARY:ASV Altenlingen - SV Holthausen Biene (5:2)
-DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nhttps://www.fussball.de
- /spiel/asv-altenlingen-sv-holthausen-biene/-/spiel/03173U5K8O000000VS5489B
- UVSBBVPEU
-URL:https://www.fussball.de/spiel/asv-altenlingen-sv-holthausen-biene/-/spi
- el/03173U5K8O000000VS5489BUVSBBVPEU
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:b432eb92a98428bf67bcd6b9d048d3ef1b3594d61b2dfe3626ffd0f7b544880c@fussba
  ll-spielplan-kalender
 DTSTAMP:20260719T072736Z
@@ -173,10 +158,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:97cd9fce3e182e6c933800062e9dd0ad7db91eeff65a19f14de34ae9989f7a7e@fussba
  ll-spielplan-kalender
-DTSTAMP:20260717T071756Z
+DTSTAMP:20260904T092211Z
 DTSTART;TZID=Europe/Berlin:20260903T200000
 DTEND;TZID=Europe/Berlin:20260903T214500
-SUMMARY:SC BW 94 Papenburg - SV Holthausen Biene
+SUMMARY:SC BW 94 Papenburg - SV Holthausen Biene (1:1)
 DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sc-bw-94-
  papenburg-sv-holthausen-biene/-/spiel/0315MRNUV8000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sc-bw-94-papenburg-sv-holthausen-biene/-/
@@ -308,6 +293,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/fc-schuet
  torf-09-sv-holthausen-biene/-/spiel/0315MRNS00000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/fc-schuettorf-09-sv-holthausen-biene/-/sp
  iel/0315MRNS00000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f39574bf673bf6bad09cdb04ee3d12115041b58f807d93e511bebf75140873f@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260904T092211Z
+DTSTART;TZID=Europe/Berlin:20261108T140000
+DTEND;TZID=Europe/Berlin:20261108T154500
+SUMMARY:VfL Wildeshausen - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/vfl-wilde
+ shausen-sv-holthausen-biene/-/spiel/0315MRNRMG000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/vfl-wildeshausen-sv-holthausen-biene/-/sp
+ iel/0315MRNRMG000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
