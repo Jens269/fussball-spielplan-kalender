@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:590b08eefd8c2f1be3b93fc81d5a78818b57110cd37bae207c58e2978754a448@fussba
- ll-spielplan-kalender
-DTSTAMP:20260714T144536Z
-DTSTART;TZID=Europe/Berlin:20260713T193000
-DTEND;TZID=Europe/Berlin:20260713T211500
-SUMMARY:SV Germania Twist II - SV Holthausen Biene III (4:4)
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
- piel/sv-germania-twist-ii-sv-holthausen-biene-iii/-/spiel/0312JOIR08000000
- VS5489BUVSBBVPEU
-URL:https://www.fussball.de/spiel/sv-germania-twist-ii-sv-holthausen-biene-
- iii/-/spiel/0312JOIR08000000VS5489BUVSBBVPEU
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:21ca7cf3043d1ed37f24fc9d871328803085897cdbc1360044c9a08374d26755@fussba
  ll-spielplan-kalender
 DTSTAMP:20260723T073349Z
@@ -174,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2c7cc460e1adc7e58a712f6a4a628024a9bdf3d1dca031d4086edef9667bfdc6@fussba
  ll-spielplan-kalender
-DTSTAMP:20260721T073315Z
+DTSTAMP:20260907T095907Z
 DTSTART;TZID=Europe/Berlin:20260906T130000
 DTEND;TZID=Europe/Berlin:20260906T144500
-SUMMARY:SV Holthausen Biene III - SG Freren II
+SUMMARY:SV Holthausen Biene III - SG Freren II (1:2)
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  thausen-biene-iii-sg-freren-ii/-/spiel/0317I2TC2C000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sg-freren-ii/-/sp
