@@ -300,4 +300,19 @@ URL:https://www.fussball.de/spiel/sv-wettrup-sv-holthausen-biene-iii/-/spie
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:1cecf990c1b671d194624b1b04d2729ef7969960f161eba6ecb50a0282336ef8@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260908T092437Z
+DTSTART;TZID=Europe/Berlin:20270307T140000
+DTEND;TZID=Europe/Berlin:20270307T154500
+SUMMARY:SV Holthausen Biene III - SC Spelle-Venhaus IV
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
+ thausen-biene-iii-sc-spelle-venhaus-iv/-/spiel/0317I2TF1G000000VS5489BTVU7
+ GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sc-spelle-venhaus
+ -iv/-/spiel/0317I2TF1G000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
