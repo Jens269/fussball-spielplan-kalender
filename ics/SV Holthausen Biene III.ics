@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:21ca7cf3043d1ed37f24fc9d871328803085897cdbc1360044c9a08374d26755@fussba
- ll-spielplan-kalender
-DTSTAMP:20260723T073349Z
-DTSTART;TZID=Europe/Berlin:20260721T190000
-DTEND;TZID=Europe/Berlin:20260721T204500
-SUMMARY:SV Holthausen Biene III - SV Eltern (0:1)
-DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sv-ho
- lthausen-biene-iii-sv-eltern/-/spiel/031C3ATMD8000000VS5489BTVUS470OH
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-eltern/-/spiel
- /031C3ATMD8000000VS5489BTVUS470OH
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:485452e2858010284972b80fb9915ec8fabf3accbff8058516e0b0356c77b5cb@fussba
  ll-spielplan-kalender
 DTSTAMP:20260723T073349Z
@@ -173,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a00b6c5f39dfb21a3a3ace814d729d66387beeec1d3dcd8328d0df022d2960d8@fussba
  ll-spielplan-kalender
-DTSTAMP:20260722T073439Z
+DTSTAMP:20260910T092512Z
 DTSTART;TZID=Europe/Berlin:20260909T193000
 DTEND;TZID=Europe/Berlin:20260909T211500
-SUMMARY:SC Baccum II - SV Holthausen Biene III
+SUMMARY:SC Baccum II - SV Holthausen Biene III (4:2)
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sc-bac
  cum-ii-sv-holthausen-biene-iii/-/spiel/0317I2TCQ4000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sc-baccum-ii-sv-holthausen-biene-iii/-/sp
