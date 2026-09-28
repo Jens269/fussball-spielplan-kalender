@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a8d9af84132687d76ba1b2bea1971cb6756fd96c872b9d1046a22f1679d46ce9@fussba
- ll-spielplan-kalender
-DTSTAMP:20260803T083026Z
-DTSTART;TZID=Europe/Berlin:20260802T150000
-DTEND;TZID=Europe/Berlin:20260802T164500
-SUMMARY:SV Holthausen Biene - SV Eintracht Nordhorn (0:3)
-DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
- usen-biene-sv-eintracht-nordhorn/-/spiel/0315MRNRD0000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-eintracht-nordhorn
- /-/spiel/0315MRNRD0000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:9a704ba7e1cefa96afcece39f7a5e2a580c1b2580a138e9b976da4f74372a487@fussba
  ll-spielplan-kalender
 DTSTAMP:20260810T061057Z
@@ -170,10 +156,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:27f0a08aa761513dd68cec6c7c2815eb2cd4fe85ed481ad3db2ac0d455fffa35@fussba
  ll-spielplan-kalender
-DTSTAMP:20260727T083129Z
+DTSTAMP:20260928T113014Z
 DTSTART;TZID=Europe/Berlin:20260927T150000
 DTEND;TZID=Europe/Berlin:20260927T164500
-SUMMARY:SV Holthausen Biene - SV GW Mühlen
+SUMMARY:SV Holthausen Biene - SV GW Mühlen (6:4)
 DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-sv-gw-muehlen/-/spiel/0315MRNTK8000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-gw-muehlen/-/spiel
@@ -304,6 +290,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-sv-altenoythe/-/spiel/0315MRO8LS000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-altenoythe/-/spiel
  /0315MRO8LS000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:80ab32860e6b514ac9165dcb1c8fa1a5cc4a7fd62b859c423ce9e7f34f8f6a9a@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260928T113014Z
+DTSTART;TZID=Europe/Berlin:20270307T143000
+DTEND;TZID=Europe/Berlin:20270307T161500
+SUMMARY:SV Union Lohne - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-union-
+ lohne-sv-holthausen-biene/-/spiel/0315MRO7N4000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-union-lohne-sv-holthausen-biene/-/spie
+ l/0315MRO7N4000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
