@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:27a4af6560f4a97019f4e8a1a9f670effeaec7c38a0aef18a8bbd9de1ed434d4@fussba
- ll-spielplan-kalender
-DTSTAMP:20260723T073349Z
-DTSTART;TZID=Europe/Berlin:20260721T202000
-DTEND;TZID=Europe/Berlin:20260721T220500
-SUMMARY:SV Bawinkel - SV Holthausen Biene III (4:0)
-DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sv-ba
- winkel-sv-holthausen-biene-iii/-/spiel/031C3ATMB8000000VS5489BTVUS470OH
-URL:https://www.fussball.de/spiel/sv-bawinkel-sv-holthausen-biene-iii/-/spi
- el/031C3ATMB8000000VS5489BTVUS470OH
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:d5be71e88ad5a9704b54a147709339158f08180dbfc42129066bf25fefc44b34@fussba
  ll-spielplan-kalender
 DTSTAMP:20260725T071850Z
@@ -173,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:407cba4bf1179e8089806f274919cb62c143b369ec5cc08bbdec5a9b0cd1868a@fussba
  ll-spielplan-kalender
-DTSTAMP:20260729T074430Z
+DTSTAMP:20261002T105506Z
 DTSTART;TZID=Europe/Berlin:20261001T200000
 DTEND;TZID=Europe/Berlin:20261001T214500
-SUMMARY:SV Concordia Emsbüren III - SV Holthausen Biene III
+SUMMARY:SV Concordia Emsbüren III - SV Holthausen Biene III (8:1)
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-con
  cordia-emsbueren-iii-sv-holthausen-biene-iii/-/spiel/0317I2TBKO000000VS548
  9BTVU7GTVLE
