@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9a704ba7e1cefa96afcece39f7a5e2a580c1b2580a138e9b976da4f74372a487@fussba
- ll-spielplan-kalender
-DTSTAMP:20260810T061057Z
-DTSTART;TZID=Europe/Berlin:20260809T150000
-DTEND;TZID=Europe/Berlin:20260809T164500
-SUMMARY:VfL Oldenburg - SV Holthausen Biene (4:1)
-DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/vfl-olden
- burg-sv-holthausen-biene/-/spiel/0315MRO12O000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/vfl-oldenburg-sv-holthausen-biene/-/spiel
- /0315MRO12O000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:2a2efe4c4e58e8b88e2db92d27cc10ab796d54023c30a8ff6b7c14cb2604f9d1@fussba
  ll-spielplan-kalender
 DTSTAMP:20260813T061724Z
@@ -170,10 +156,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:32ffc66f9079c7b9bd0fcba16924d1b28e1933e0cb421e9ef860bcd01b152e4f@fussba
  ll-spielplan-kalender
-DTSTAMP:20260803T083026Z
+DTSTAMP:20261005T120528Z
 DTSTART;TZID=Europe/Berlin:20261004T150000
 DTEND;TZID=Europe/Berlin:20261004T164500
-SUMMARY:TV Dinklage - SV Holthausen Biene
+SUMMARY:TV Dinklage - SV Holthausen Biene (7:1)
 DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/tv-dinkla
  ge-sv-holthausen-biene/-/spiel/0315MRNTG0000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/tv-dinklage-sv-holthausen-biene/-/spiel/0
@@ -304,6 +290,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-union-
  lohne-sv-holthausen-biene/-/spiel/0315MRO7N4000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-union-lohne-sv-holthausen-biene/-/spie
  l/0315MRO7N4000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c4d713d1fcc2e385f7144ead7d73a7ab9fcc921600e7dcc3b7766ff684db13@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261005T120528Z
+DTSTART;TZID=Europe/Berlin:20270314T150000
+DTEND;TZID=Europe/Berlin:20270314T164500
+SUMMARY:SV Holthausen Biene - SC BW 94 Papenburg
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
+ usen-biene-sc-bw-94-papenburg/-/spiel/0315MRO750000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-sc-bw-94-papenburg/-/
+ spiel/0315MRO750000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

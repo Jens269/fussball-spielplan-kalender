@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c8ec1dac6a7a2b07bf87d0f7aac9ebedb083ee6f29563cef57992651730ba3bc@fussba
- ll-spielplan-kalender
-DTSTAMP:20260809T054719Z
-DTSTART;TZID=Europe/Berlin:20260808T150000
-DTEND;TZID=Europe/Berlin:20260808T164500
-SUMMARY:SV Holthausen Biene II - SV Lengerich-H. (3:0)
-DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
- sen-biene-ii-sv-lengerich-h/-/spiel/0317I0VIMC000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-lengerich-h/-/s
- piel/0317I0VIMC000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fbcb9c557a1950391d8ef9bbc310b8d972b6183c365c7d352553956357900d26@fussba
  ll-spielplan-kalender
 DTSTAMP:20260817T053550Z
@@ -170,10 +156,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c9b5a6689335da87ada027cc189c2e70b3c4d16a11900ddc3acb781dbd6dba3f@fussba
  ll-spielplan-kalender
-DTSTAMP:20260730T073351Z
+DTSTAMP:20261005T120528Z
 DTSTART;TZID=Europe/Berlin:20261004T150000
 DTEND;TZID=Europe/Berlin:20261004T164500
-SUMMARY:SV Dohren - SV Holthausen Biene II
+SUMMARY:SV Dohren - SV Holthausen Biene II (1:1)
 DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-dohren-
  sv-holthausen-biene-ii/-/spiel/0317I0VGQ4000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-dohren-sv-holthausen-biene-ii/-/spiel/
@@ -305,6 +291,20 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-sw-varenrode/-/spiel/0317I0VM0O000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sw-varenrode/-/spi
  el/0317I0VM0O000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2655dae1896b730b6884de3c3c19b7217f133d2f208c15f1395cc7466753e51@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261005T120528Z
+DTSTART;TZID=Europe/Berlin:20270321T150000
+DTEND;TZID=Europe/Berlin:20270321T164500
+SUMMARY:SV Voran Brögbern - SV Holthausen Biene II
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-voran-b
+ roegbern-sv-holthausen-biene-ii/-/spiel/0317I0VLO0000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-voran-broegbern-sv-holthausen-biene-ii
+ /-/spiel/0317I0VLO0000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

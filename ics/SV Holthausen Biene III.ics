@@ -286,4 +286,19 @@ URL:https://www.fussball.de/spiel/sg-freren-ii-sv-holthausen-biene-iii/-/sp
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:9e4d61b810bca6056a4460e65dc727e396fde1fe782b54f9ee1d4152a7ecc4d0@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261005T120528Z
+DTSTART;TZID=Europe/Berlin:20270404T150000
+DTEND;TZID=Europe/Berlin:20270404T164500
+SUMMARY:SV Heidekraut Andervenne - SV Holthausen Biene III
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hei
+ dekraut-andervenne-sv-holthausen-biene-iii/-/spiel/0317I2TE3C000000VS5489B
+ TVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-heidekraut-andervenne-sv-holthausen-bi
+ ene-iii/-/spiel/0317I2TE3C000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
