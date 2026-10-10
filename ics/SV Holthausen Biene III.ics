@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d5be71e88ad5a9704b54a147709339158f08180dbfc42129066bf25fefc44b34@fussba
- ll-spielplan-kalender
-DTSTAMP:20260725T071850Z
-DTSTART;TZID=Europe/Berlin:20260724T180000
-DTEND;TZID=Europe/Berlin:20260724T194500
-SUMMARY:[Absetzung] SV Dalum - SV Holthausen Biene III
-DESCRIPTION:Wettbewerb: Vereinsturnier\nStatus: Absetzung\nhttps://www.fuss
- ball.de/spiel/sv-dalum-sv-holthausen-biene-iii/-/spiel/031C3ATMOC000000VS5
- 489BTVUS470OH
-URL:https://www.fussball.de/spiel/sv-dalum-sv-holthausen-biene-iii/-/spiel/
- 031C3ATMOC000000VS5489BTVUS470OH
-STATUS:CANCELLED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:529ad4725e1ddffe6e906032460af0d0aab28fffb9d1bb5c2ad88bfe6f5a9a51@fussba
  ll-spielplan-kalender
 DTSTAMP:20260729T074430Z
@@ -174,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:138b149cdf48b02cf2f5f1d8cd118282a872740b5e2a89f9e9ca0ac2dde2125f@fussba
  ll-spielplan-kalender
-DTSTAMP:20260722T073439Z
+DTSTAMP:20261010T105950Z
 DTSTART;TZID=Europe/Berlin:20261009T193000
 DTEND;TZID=Europe/Berlin:20261009T211500
-SUMMARY:SV Holthausen Biene III - ASV Altenlingen III
+SUMMARY:SV Holthausen Biene III - ASV Altenlingen III (1:2)
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  thausen-biene-iii-asv-altenlingen-iii/-/spiel/0317I2TBCO000000VS5489BTVU7G
  TVLE

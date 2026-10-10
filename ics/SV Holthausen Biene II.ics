@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fbcb9c557a1950391d8ef9bbc310b8d972b6183c365c7d352553956357900d26@fussba
- ll-spielplan-kalender
-DTSTAMP:20260817T053550Z
-DTSTART;TZID=Europe/Berlin:20260816T150000
-DTEND;TZID=Europe/Berlin:20260816T164500
-SUMMARY:BV Clusorth-Bramhar - SV Holthausen Biene II (4:3)
-DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/bv-clusort
- h-bramhar-sv-holthausen-biene-ii/-/spiel/0317I0VIBK000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/bv-clusorth-bramhar-sv-holthausen-biene-i
- i/-/spiel/0317I0VIBK000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:9ae81aebf9c85fb41afefc14b5bdff53d6d6adbccde1235a8611048965062348@fussba
  ll-spielplan-kalender
 DTSTAMP:20260820T053210Z
@@ -170,10 +156,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b52673785f5762bc5c2c919de8f9a46f201241814417af01d77cd9530894cca8@fussba
  ll-spielplan-kalender
-DTSTAMP:20260730T073351Z
+DTSTAMP:20261010T105950Z
 DTSTART;TZID=Europe/Berlin:20261009T193000
 DTEND;TZID=Europe/Berlin:20261009T211500
-SUMMARY:SV Holthausen Biene II - SG Bramsche
+SUMMARY:SV Holthausen Biene II - SG Bramsche (5:0)
 DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-sg-bramsche/-/spiel/0317I0VGJ4000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sg-bramsche/-/spie
@@ -305,6 +291,20 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-voran-b
  roegbern-sv-holthausen-biene-ii/-/spiel/0317I0VLO0000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-voran-broegbern-sv-holthausen-biene-ii
  /-/spiel/0317I0VLO0000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:194139ca2dd3c0ab24b2eb5faae48927c3dbd5a42518cc02f538716cb1923977@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261010T105950Z
+DTSTART;TZID=Europe/Berlin:20270404T150000
+DTEND;TZID=Europe/Berlin:20270404T164500
+SUMMARY:SV Holthausen Biene II - BW Lünne
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
+ sen-biene-ii-bw-luenne/-/spiel/0317I0VL4S000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-bw-luenne/-/spiel/
+ 0317I0VL4S000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
