@@ -286,4 +286,19 @@ URL:https://www.fussball.de/spiel/sv-heidekraut-andervenne-sv-holthausen-bi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:9e731fab9e8a3fd4e80be95db043b5ba0d7e800c6e100d9d663ccd8f119a3b99@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261012T125030Z
+DTSTART;TZID=Europe/Berlin:20270411T150000
+DTEND;TZID=Europe/Berlin:20270411T164500
+SUMMARY:SV Holthausen Biene III - SV Concordia Emsbüren III
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
+ thausen-biene-iii-sv-concordia-emsbueren-iii/-/spiel/0317I2TDV4000000VS548
+ 9BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-concordia-emsb
+ ueren-iii/-/spiel/0317I2TDV4000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
