@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:529ad4725e1ddffe6e906032460af0d0aab28fffb9d1bb5c2ad88bfe6f5a9a51@fussba
- ll-spielplan-kalender
-DTSTAMP:20260729T074430Z
-DTSTART;TZID=Europe/Berlin:20260730T193000
-DTEND;TZID=Europe/Berlin:20260730T211500
-SUMMARY:[Absetzung] SV Holthausen Biene III - SV Union Lohne IV
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nStatus: Absetzung\nhttps:
- //www.fussball.de/spiel/sv-holthausen-biene-iii-sv-union-lohne-iv/-/spiel/
- 031IBSO590000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-union-lohne-iv
- /-/spiel/031IBSO590000000VS5489BTVSRD0UH9
-STATUS:CANCELLED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:3e1b75f41d8bbb57c46ed7cb040a2fdf9556bd7b581941c573c64180ddcbd682@fussba
  ll-spielplan-kalender
 DTSTAMP:20260731T075125Z
@@ -174,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:600765f1a69a488da456f12ee259ca4d0602eca1cc539406f58baa33297f351e@fussba
  ll-spielplan-kalender
-DTSTAMP:20260731T075125Z
+DTSTAMP:20261019T103329Z
 DTSTART;TZID=Europe/Berlin:20261018T130000
 DTEND;TZID=Europe/Berlin:20261018T144500
-SUMMARY:TuS Lingen 2 - SV Holthausen Biene III
+SUMMARY:TuS Lingen 2 - SV Holthausen Biene III (7:0)
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/tus-li
  ngen-2-sv-holthausen-biene-iii/-/spiel/0317I2TB8O000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/tus-lingen-2-sv-holthausen-biene-iii/-/sp
@@ -298,6 +283,21 @@ DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  9BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-concordia-emsb
  ueren-iii/-/spiel/0317I2TDV4000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0b7dd231129032503c767ef02baaab7fbdb4cd2445f65d801b1a70d5144f55@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261019T103329Z
+DTSTART;TZID=Europe/Berlin:20270418T150000
+DTEND;TZID=Europe/Berlin:20270418T164500
+SUMMARY:ASV Altenlingen III - SV Holthausen Biene III
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/asv-al
+ tenlingen-iii-sv-holthausen-biene-iii/-/spiel/0317I2TDIS000000VS5489BTVU7G
+ TVLE
+URL:https://www.fussball.de/spiel/asv-altenlingen-iii-sv-holthausen-biene-i
+ ii/-/spiel/0317I2TDIS000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
