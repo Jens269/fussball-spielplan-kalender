@@ -251,6 +251,21 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:3674ae6d1eee1eb824a069b1dcb37756aa0e857c7786fc3061c07ab5e71b2095@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T095214Z
+DTSTART;TZID=Europe/Berlin:20270221T110000
+DTEND;TZID=Europe/Berlin:20270221T124500
+SUMMARY:SV Vorwärts Nordhorn II - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nhttps://www.fussball.de
+ /spiel/sv-vorwaerts-nordhorn-ii-sv-holthausen-biene/-/spiel/032F056ND00000
+ 00VS5489BTVU989P58
+URL:https://www.fussball.de/spiel/sv-vorwaerts-nordhorn-ii-sv-holthausen-bi
+ ene/-/spiel/032F056ND0000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:80ab32860e6b514ac9165dcb1c8fa1a5cc4a7fd62b859c423ce9e7f34f8f6a9a@fussba
  ll-spielplan-kalender
 DTSTAMP:20260928T113014Z
@@ -289,20 +304,6 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/bw-lohne-
  ii-sv-holthausen-biene/-/spiel/0315MRO6BK000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/bw-lohne-ii-sv-holthausen-biene/-/spiel/0
  315MRO6BK000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:999a1497d843eeda4057586af79874df918e24c49df7860fdaee6696c1ff7ed3@fussba
- ll-spielplan-kalender
-DTSTAMP:20261019T103329Z
-DTSTART;TZID=Europe/Berlin:20270404T150000
-DTEND;TZID=Europe/Berlin:20270404T164500
-SUMMARY:SV Holthausen Biene - TuS Pewsum
-DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
- usen-biene-tus-pewsum/-/spiel/0315MRO690000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-tus-pewsum/-/spiel/03
- 15MRO690000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
