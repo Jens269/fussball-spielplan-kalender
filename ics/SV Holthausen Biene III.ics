@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3e1b75f41d8bbb57c46ed7cb040a2fdf9556bd7b581941c573c64180ddcbd682@fussba
- ll-spielplan-kalender
-DTSTAMP:20260731T075125Z
-DTSTART;TZID=Europe/Berlin:20260730T193000
-DTEND;TZID=Europe/Berlin:20260730T211500
-SUMMARY:SV Holthausen Biene III - SV Union Lohne III (2:9)
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
- piel/sv-holthausen-biene-iii-sv-union-lohne-iii/-/spiel/031JURJJ7K000000VS
- 5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-union-lohne-ii
- i/-/spiel/031JURJJ7K000000VS5489BTVSRD0UH9
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:b7f7f38c52bb2375d8360189b0bf9e666a7887e0f623fc9a73ca48a9f18ee25d@fussba
  ll-spielplan-kalender
 DTSTAMP:20260803T083026Z
@@ -173,10 +158,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d95265d930b1cefb61e97da84b44297660128c6f7b0ea1896dc8083b8e86dc70@fussba
  ll-spielplan-kalender
-DTSTAMP:20260731T075125Z
+DTSTAMP:20261024T091942Z
 DTSTART;TZID=Europe/Berlin:20261023T193000
 DTEND;TZID=Europe/Berlin:20261023T211500
-SUMMARY:SuS Darme 1926 e.V. 2 - SV Holthausen Biene III
+SUMMARY:SuS Darme 1926 e.V. 2 - SV Holthausen Biene III (4:0)
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sus-da
  rme-1926-ev-2-sv-holthausen-biene-iii/-/spiel/0317I2TB3K000000VS5489BTVU7G
  TVLE
