@@ -268,9 +268,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:80ab32860e6b514ac9165dcb1c8fa1a5cc4a7fd62b859c423ce9e7f34f8f6a9a@fussba
  ll-spielplan-kalender
-DTSTAMP:20260928T113014Z
-DTSTART;TZID=Europe/Berlin:20270307T143000
-DTEND;TZID=Europe/Berlin:20270307T161500
+DTSTAMP:20261026T104828Z
+DTSTART;TZID=Europe/Berlin:20270307T150000
+DTEND;TZID=Europe/Berlin:20270307T164500
 SUMMARY:SV Union Lohne - SV Holthausen Biene
 DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-union-
  lohne-sv-holthausen-biene/-/spiel/0315MRO7N4000000VS5489BTVU7GTVLE

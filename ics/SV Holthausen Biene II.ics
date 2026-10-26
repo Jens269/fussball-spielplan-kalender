@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fe3228c153413794210c2fa272b38211c80c6b0287cb8c8f885159fd86d06686@fussba
- ll-spielplan-kalender
-DTSTAMP:20260829T112959Z
-DTSTART;TZID=Europe/Berlin:20260828T193000
-DTEND;TZID=Europe/Berlin:20260828T211500
-SUMMARY:SW Varenrode - SV Holthausen Biene II (1:5)
-DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sw-varenro
- de-sv-holthausen-biene-ii/-/spiel/0317I0VHL8000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sw-varenrode-sv-holthausen-biene-ii/-/spi
- el/0317I0VHL8000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:64bb4d2284d8338c422ab2af07b7181b00c4841ef36199d3796628641999ab88@fussba
  ll-spielplan-kalender
 DTSTAMP:20260905T085120Z
@@ -170,10 +156,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a9a4e1a9f796b036b0c044bc5d800fa1bb2ea031967cb59500371511dc525baf@fussba
  ll-spielplan-kalender
-DTSTAMP:20260817T053550Z
+DTSTAMP:20261026T104828Z
 DTSTART;TZID=Europe/Berlin:20261025T150000
 DTEND;TZID=Europe/Berlin:20261025T164500
-SUMMARY:SV Holthausen Biene II - ASV Altenlingen II
+SUMMARY:SV Holthausen Biene II - ASV Altenlingen II (1:0)
 DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-asv-altenlingen-ii/-/spiel/0317I0VG74000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-asv-altenlingen-ii
@@ -306,6 +292,20 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sc-spelle-
  E
 URL:https://www.fussball.de/spiel/sc-spelle-venhaus-iii-sv-holthausen-biene
  -ii/-/spiel/0317I0VL00000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1f63c424e68d3361e8060a2d6c088967d78f6636886a0f2d554efab083aadc2@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261026T104828Z
+DTSTART;TZID=Europe/Berlin:20270418T150000
+DTEND;TZID=Europe/Berlin:20270418T164500
+SUMMARY:SV Holthausen Biene II - SV Dohren
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
+ sen-biene-ii-sv-dohren/-/spiel/0317I0VKLG000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-dohren/-/spiel/
+ 0317I0VKLG000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
