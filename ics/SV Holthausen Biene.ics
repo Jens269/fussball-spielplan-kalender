@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3d9ed00b93d0161a960805ef02e22ab7dcf4efa6585b7ac3eea1301a4025d494@fussba
- ll-spielplan-kalender
-DTSTAMP:20260823T053036Z
-DTSTART;TZID=Europe/Berlin:20260822T160000
-DTEND;TZID=Europe/Berlin:20260822T174500
-SUMMARY:SV Altenoythe - SV Holthausen Biene (0:2)
-DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-alteno
- ythe-sv-holthausen-biene/-/spiel/0315MRO00O000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-altenoythe-sv-holthausen-biene/-/spiel
- /0315MRO00O000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:8a6dff5c70616653529fc65179f45d13f1e767b2010df3607db9d566e9fde114@fussba
  ll-spielplan-kalender
 DTSTAMP:20260828T171111Z
@@ -169,10 +155,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f8774f04012b37bb7228d8f8dc86f3feea2ce73f4bbd104f114294124de13302@fussba
  ll-spielplan-kalender
-DTSTAMP:20260823T053036Z
+DTSTAMP:20261029T112004Z
 DTSTART;TZID=Europe/Berlin:20261028T193000
 DTEND;TZID=Europe/Berlin:20261028T211500
-SUMMARY:SV Holthausen Biene - BW Hollage
+SUMMARY:SV Holthausen Biene - BW Hollage (3:2)
 DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-bw-hollage/-/spiel/0315MRNS7G000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-bw-hollage/-/spiel/03
@@ -304,6 +290,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/bw-lohne-
  ii-sv-holthausen-biene/-/spiel/0315MRO6BK000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/bw-lohne-ii-sv-holthausen-biene/-/spiel/0
  315MRO6BK000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:999a1497d843eeda4057586af79874df918e24c49df7860fdaee6696c1ff7ed3@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261029T112004Z
+DTSTART;TZID=Europe/Berlin:20270404T150000
+DTEND;TZID=Europe/Berlin:20270404T164500
+SUMMARY:SV Holthausen Biene - TuS Pewsum
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
+ usen-biene-tus-pewsum/-/spiel/0315MRO690000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-tus-pewsum/-/spiel/03
+ 15MRO690000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
