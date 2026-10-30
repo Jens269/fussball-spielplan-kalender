@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b7f7f38c52bb2375d8360189b0bf9e666a7887e0f623fc9a73ca48a9f18ee25d@fussba
- ll-spielplan-kalender
-DTSTAMP:20260803T083026Z
-DTSTART;TZID=Europe/Berlin:20260802T130000
-DTEND;TZID=Europe/Berlin:20260802T144500
-SUMMARY:SV Holthausen Biene III - SW Varenrode (1:6)
-DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/sv-holtha
- usen-biene-iii-sw-varenrode/-/spiel/0317AH3664000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sw-varenrode/-/sp
- iel/0317AH3664000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:37ae89713ce794a7e65c11adcdfedff258554994570ad14785fa82a29231802e@fussba
  ll-spielplan-kalender
 DTSTAMP:20260815T052529Z
@@ -173,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:821883591374f545eee3b577c22279d727bb6f6a8797df7fe17e9638b6077f5e@fussba
  ll-spielplan-kalender
-DTSTAMP:20260915T094833Z
+DTSTAMP:20261030T111235Z
 DTSTART;TZID=Europe/Berlin:20261029T193000
 DTEND;TZID=Europe/Berlin:20261029T211500
-SUMMARY:SV Holthausen Biene III - SV Listrup II
+SUMMARY:SV Holthausen Biene III - SV Listrup II (2:2)
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  thausen-biene-iii-sv-listrup-ii/-/spiel/0317I2TAV8000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-listrup-ii/-/s
