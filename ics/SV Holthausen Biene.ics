@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8a6dff5c70616653529fc65179f45d13f1e767b2010df3607db9d566e9fde114@fussba
- ll-spielplan-kalender
-DTSTAMP:20260828T171111Z
-DTSTART;TZID=Europe/Berlin:20260827T193000
-DTEND;TZID=Europe/Berlin:20260827T211500
-SUMMARY:SV Holthausen Biene - SV Union Lohne (0:2)
-DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
- usen-biene-sv-union-lohne/-/spiel/0315MRNV9C000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-union-lohne/-/spie
- l/0315MRNV9C000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:97cd9fce3e182e6c933800062e9dd0ad7db91eeff65a19f14de34ae9989f7a7e@fussba
  ll-spielplan-kalender
 DTSTAMP:20260904T092211Z
@@ -169,10 +155,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a3bf447af241b8e80b85c3f410a88e1377e243632b7d148ef03496a2fad885a0@fussba
  ll-spielplan-kalender
-DTSTAMP:20260828T171111Z
+DTSTAMP:20261101T114241Z
 DTSTART;TZID=Europe/Berlin:20261031T143000
 DTEND;TZID=Europe/Berlin:20261031T161500
-SUMMARY:FC Schüttorf 09 - SV Holthausen Biene
+SUMMARY:FC Schüttorf 09 - SV Holthausen Biene (3:1)
 DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/fc-schuet
  torf-09-sv-holthausen-biene/-/spiel/0315MRNS00000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/fc-schuettorf-09-sv-holthausen-biene/-/sp
@@ -304,6 +290,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-tus-pewsum/-/spiel/0315MRO690000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-tus-pewsum/-/spiel/03
  15MRO690000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7302bfa15336ede613806cee5aaa85b53d2d320ca7653e367e7ebd52a2e038ea@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261101T114241Z
+DTSTART;TZID=Europe/Berlin:20270411T150000
+DTEND;TZID=Europe/Berlin:20270411T164500
+SUMMARY:SV GW Mühlen - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-gw-mue
+ hlen-sv-holthausen-biene/-/spiel/0315MRO540000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-gw-muehlen-sv-holthausen-biene/-/spiel
+ /0315MRO540000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
