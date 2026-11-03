@@ -272,4 +272,18 @@ URL:https://www.fussball.de/spiel/asv-altenlingen-iii-sv-holthausen-biene-i
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:83ea481275b215b08cc76ff50e27b304241ff51f6a6bfff2cfbfd99e29367d19@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261103T123907Z
+DTSTART;TZID=Europe/Berlin:20270502T150000
+DTEND;TZID=Europe/Berlin:20270502T164500
+SUMMARY:SV Holthausen Biene III - TuS Lingen 2
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
+ thausen-biene-iii-tus-lingen-2/-/spiel/0317I2TDCC000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-tus-lingen-2/-/sp
+ iel/0317I2TDCC000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
