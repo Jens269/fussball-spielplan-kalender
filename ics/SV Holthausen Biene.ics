@@ -223,6 +223,20 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:5a6f85c62fe3f62d0beef8a028b92f9ddaf4b240acc28a30d453998d9b433f68@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261107T113302Z
+DTSTART;TZID=Europe/Berlin:20270123T143000
+DTEND;TZID=Europe/Berlin:20270123T161500
+SUMMARY:SV Meppen - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Freundschaftsspiele\nhttps://www.fussball.de/spiel/
+ sv-meppen-sv-holthausen-biene/-/spiel/032KDLI9VC000000VS5489BUVT7T9F23
+URL:https://www.fussball.de/spiel/sv-meppen-sv-holthausen-biene/-/spiel/032
+ KDLI9VC000000VS5489BUVT7T9F23
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:3674ae6d1eee1eb824a069b1dcb37756aa0e857c7786fc3061c07ab5e71b2095@fussba
  ll-spielplan-kalender
 DTSTAMP:20261021T095214Z
@@ -290,20 +304,6 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-tus-pewsum/-/spiel/0315MRO690000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-tus-pewsum/-/spiel/03
  15MRO690000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:7302bfa15336ede613806cee5aaa85b53d2d320ca7653e367e7ebd52a2e038ea@fussba
- ll-spielplan-kalender
-DTSTAMP:20261101T114241Z
-DTSTART;TZID=Europe/Berlin:20270411T150000
-DTEND;TZID=Europe/Berlin:20270411T164500
-SUMMARY:SV GW Mühlen - SV Holthausen Biene
-DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-gw-mue
- hlen-sv-holthausen-biene/-/spiel/0315MRO540000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-gw-muehlen-sv-holthausen-biene/-/spiel
- /0315MRO540000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
