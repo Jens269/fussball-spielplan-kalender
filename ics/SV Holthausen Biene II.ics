@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:63b241cf21ece8d3f7311713a59a3c68e8e73f807947dd50af7971e3f78fe65b@fussba
- ll-spielplan-kalender
-DTSTAMP:20260914T102205Z
-DTSTART;TZID=Europe/Berlin:20260913T150000
-DTEND;TZID=Europe/Berlin:20260913T164500
-SUMMARY:SV Holthausen Biene II - SV Voran Brögbern (3:1)
-DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
- sen-biene-ii-sv-voran-broegbern/-/spiel/0317I0VHF0000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-voran-broegbern
- /-/spiel/0317I0VHF0000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:d6236feb1c8ffcceabdf1f9fb3767a771fd4c673a659bc42e0b92913ebc82d46@fussba
  ll-spielplan-kalender
 DTSTAMP:20260917T095155Z
@@ -170,10 +156,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d4c706c97d8f4c64b11133bcafa4ff46f966c65f07a428200a89252528dad8e0@fussba
  ll-spielplan-kalender
-DTSTAMP:20260914T102205Z
+DTSTAMP:20261109T133953Z
 DTSTART;TZID=Europe/Berlin:20261108T140000
 DTEND;TZID=Europe/Berlin:20261108T154500
-SUMMARY:SV Holthausen Biene II - SuS Darme 1926 e.V. 1
+SUMMARY:SV Holthausen Biene II - SuS Darme 1926 e.V. 1 (3:1)
 DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-sus-darme-1926-ev-1/-/spiel/0317I0VFSK000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sus-darme-1926-ev-
@@ -305,6 +291,20 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sg-bramsch
  e-sv-holthausen-biene-ii/-/spiel/0317I0VK8O000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sg-bramsche-sv-holthausen-biene-ii/-/spie
  l/0317I0VK8O000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:05819d6453f2efe9b89746aeb6d2f1c7f4a8a50158df6921943cfe3f8ebe90e7@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261109T133953Z
+DTSTART;TZID=Europe/Berlin:20270502T150000
+DTEND;TZID=Europe/Berlin:20270502T164500
+SUMMARY:SV Holthausen Biene II - SV Olympia Laxten II
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
+ sen-biene-ii-sv-olympia-laxten-ii/-/spiel/0317I0VJS8000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-olympia-laxten-
+ ii/-/spiel/0317I0VJS8000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

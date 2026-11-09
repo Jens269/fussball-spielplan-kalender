@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:37ae89713ce794a7e65c11adcdfedff258554994570ad14785fa82a29231802e@fussba
- ll-spielplan-kalender
-DTSTAMP:20260815T052529Z
-DTSTART;TZID=Europe/Berlin:20260814T193000
-DTEND;TZID=Europe/Berlin:20260814T211500
-SUMMARY:SV Holthausen Biene III - SV Wettrup (3:3)
-DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
- thausen-biene-iii-sv-wettrup/-/spiel/0317I2TCEO000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sv-wettrup/-/spie
- l/0317I2TCEO000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:47aa4961950e172424cac96bc5e8e972fe2a572cdc4c2a33ba12d06b80674dc1@fussba
  ll-spielplan-kalender
 DTSTAMP:20260828T171111Z
@@ -173,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:71885a7898ce40f3661de1ba1429d19dbc3ba690bb00eaa18e4f2246ddab4212@fussba
  ll-spielplan-kalender
-DTSTAMP:20260815T052529Z
+DTSTAMP:20261109T133953Z
 DTSTART;TZID=Europe/Berlin:20261108T120000
 DTEND;TZID=Europe/Berlin:20261108T134500
-SUMMARY:SV Holthausen Biene III - SC Baccum II
+SUMMARY:SV Holthausen Biene III - SC Baccum II (1:4)
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  thausen-biene-iii-sc-baccum-ii/-/spiel/0317I2TFOG000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sc-baccum-ii/-/sp
