@@ -171,20 +171,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cb95069e73f3dd870c99668bcbd8ba8f8c156c055c4ec591bee4974b1f6f9de4@fussba
- ll-spielplan-kalender
-DTSTAMP:20260828T171111Z
-DTSTART;TZID=Europe/Berlin:20261115T140000
-DTEND;TZID=Europe/Berlin:20261115T154500
-SUMMARY:SV Wettrup - SV Holthausen Biene III
-DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-wet
- trup-sv-holthausen-biene-iii/-/spiel/0317I2TF8G000000VS5489BTVU7GTVLE
-URL:https://www.fussball.de/spiel/sv-wettrup-sv-holthausen-biene-iii/-/spie
- l/0317I2TF8G000000VS5489BTVU7GTVLE
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:1cecf990c1b671d194624b1b04d2729ef7969960f161eba6ecb50a0282336ef8@fussba
  ll-spielplan-kalender
 DTSTAMP:20260908T092437Z
@@ -210,6 +196,20 @@ DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sg-fre
  ren-ii-sv-holthausen-biene-iii/-/spiel/0317I2TEKO000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sg-freren-ii-sv-holthausen-biene-iii/-/sp
  iel/0317I2TEKO000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb95069e73f3dd870c99668bcbd8ba8f8c156c055c4ec591bee4974b1f6f9de4@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261110T131708Z
+DTSTART;TZID=Europe/Berlin:20270325T193000
+DTEND;TZID=Europe/Berlin:20270325T211500
+SUMMARY:SV Wettrup - SV Holthausen Biene III
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-wet
+ trup-sv-holthausen-biene-iii/-/spiel/0317I2TF8G000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-wettrup-sv-holthausen-biene-iii/-/spie
+ l/0317I2TF8G000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
